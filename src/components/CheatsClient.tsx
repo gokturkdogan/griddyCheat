@@ -5,6 +5,7 @@ import { CheatCard } from "@/components/CheatCard";
 import { CheatImageModal } from "@/components/CheatImageModal";
 import { ModPageHeader } from "@/components/ModPageHeader";
 import type { Cheat } from "@/lib/types";
+import { titleMatchesSearch } from "@/lib/search";
 import { useCallback, useEffect, useMemo, useState } from "react";
 
 type CheatsClientProps = {
@@ -46,9 +47,9 @@ export function CheatsClient({
   }, [load]);
 
   const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = query.trim();
     if (!q) return all;
-    return all.filter((c) => c.title.toLowerCase().includes(q));
+    return all.filter((c) => titleMatchesSearch(c.title, q));
   }, [all, query]);
 
   return (
