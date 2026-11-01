@@ -42,7 +42,7 @@ export function Navbar() {
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-40 border-b border-white/[0.06] bg-pitch-dark/92 backdrop-blur-md">
+    <header className="sticky top-0 z-40 border-b border-white/[0.06] bg-pitch-dark/92 pt-[70px] backdrop-blur-md lg:pt-0">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-2.5 sm:px-6 sm:py-3">
         <Link
           href="/"
