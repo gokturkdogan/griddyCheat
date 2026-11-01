@@ -18,12 +18,12 @@ export function WorldCupSquadToolbar({
   loading,
 }: Props) {
   return (
-    <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center">
+    <div className="mb-4 flex flex-col gap-2.5 sm:flex-row sm:items-center sm:gap-3">
       <div className="relative min-w-0 flex-1">
         <label htmlFor={searchId} className="sr-only">
           Ülkede ara
         </label>
-        <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-pitch-line/40">
+        <span className="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-pitch-line/35">
           <IconSearch />
         </span>
         <input
@@ -32,11 +32,11 @@ export function WorldCupSquadToolbar({
           placeholder="Ülke ara…"
           value={query}
           onChange={(e) => onQueryChange(e.target.value)}
-          className="w-full rounded-xl border border-white/10 bg-pitch-dark/40 py-2.5 pl-10 pr-3 text-sm text-white placeholder:text-pitch-line/40 focus:border-gold/45 focus:outline-none focus:ring-2 focus:ring-gold/15"
+          className="w-full rounded-xl border border-white/[0.08] bg-[rgba(6,18,12,0.5)] py-2.5 pl-10 pr-3 text-sm text-white placeholder:text-pitch-line/35 backdrop-blur-sm focus:border-gold/50 focus:outline-none focus:ring-2 focus:ring-gold/20"
         />
       </div>
       {!loading && recordCount !== undefined && (
-        <span className="shrink-0 rounded-lg border border-white/10 px-3 py-2 text-xs text-pitch-line/60 sm:py-2.5">
+        <span className="shrink-0 rounded-xl border border-white/[0.08] bg-black/20 px-3 py-2 text-xs font-medium tabular-nums text-pitch-line/55 sm:py-2.5">
           {recordCount} ülke
         </span>
       )}

@@ -1,5 +1,40 @@
 import { Logo } from "@/components/Logo";
 
+import Link from "next/link";
+import {
+  IconDraftinho,
+  IconHedefiTuttur,
+  IconKariyerIkizi,
+  IconSon7,
+} from "@/components/tab-bar-icons";
+
+const HOME_MOD_LINKS = [
+  {
+    href: "/son-7-modu-hileleri",
+    label: "Son 7",
+    hint: "Hile listesi",
+    Icon: IconSon7,
+  },
+  {
+    href: "/draftinho",
+    label: "Draftinho",
+    hint: "Kadro modları",
+    Icon: IconDraftinho,
+  },
+  {
+    href: "/kariyer-ikizi",
+    label: "Kariyer",
+    hint: "Yakında",
+    Icon: IconKariyerIkizi,
+  },
+  {
+    href: "/hedefi-tuttur",
+    label: "Hedef",
+    hint: "Yakında",
+    Icon: IconHedefiTuttur,
+  },
+] as const;
+
 function HudCorner({ className }: { className: string }) {
   return (
     <svg className={className} width="48" height="48" viewBox="0 0 48 48" fill="none" aria-hidden>
@@ -128,19 +163,36 @@ export function HomeCinematic() {
               </span>
             </h1>
 
-            <div
-              className="mt-5 flex flex-wrap items-center justify-center gap-2"
-              aria-hidden
+            <p className="mb-2 text-center text-xs text-pitch-line/50">
+              Bir mod seçerek başla
+            </p>
+            <nav
+              className="mx-auto grid max-w-sm grid-cols-2 gap-2 sm:gap-2.5"
+              aria-label="Mod seçimi"
             >
-              {["SON 7", "DRAFT", "KARİYER", "HEDEF"].map((tag) => (
-                <span
-                  key={tag}
-                  className="rounded-full border border-white/10 bg-white/[0.04] px-2.5 py-1 font-mono text-[9px] tracking-widest text-white/45"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
+              {HOME_MOD_LINKS.map((mod) => {
+                const Icon = mod.Icon;
+                return (
+                  <Link
+                    key={mod.href}
+                    href={mod.href}
+                    className="app-home-mod-link group flex items-center gap-2.5 rounded-xl border border-white/[0.08] bg-white/[0.04] px-3 py-2.5 text-left transition active:scale-[0.98] sm:px-3.5 sm:py-3"
+                  >
+                    <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-black/25 text-gold transition group-hover:bg-gold/15">
+                      <Icon className="h-[1.125rem] w-[1.125rem]" />
+                    </span>
+                    <span className="min-w-0">
+                      <span className="block truncate text-sm font-semibold text-white/90">
+                        {mod.label}
+                      </span>
+                      <span className="block truncate text-[10px] text-pitch-line/45">
+                        {mod.hint}
+                      </span>
+                    </span>
+                  </Link>
+                );
+              })}
+            </nav>
 
             <div className="mt-6 flex items-center justify-center gap-2">
               <span className="home-pulse-dot h-1.5 w-1.5 rounded-full bg-emerald-400" />

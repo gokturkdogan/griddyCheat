@@ -1,16 +1,49 @@
 "use client";
 
 import { Logo } from "@/components/Logo";
-import { DESKTOP_NAV_LINKS } from "@/lib/navigation";
+import {
+  IconDraftinho,
+  IconHedefiTuttur,
+  IconHome,
+  IconKariyerIkizi,
+  IconSon7,
+} from "@/components/tab-bar-icons";
+import { DESKTOP_NAV_LINKS, type NavItem, type TabIconId } from "@/lib/navigation";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import type { ReactNode } from "react";
+
+function TabIcon({ id, className }: { id: TabIconId; className?: string }) {
+  const map: Record<TabIconId, ReactNode> = {
+    kariyer: <IconKariyerIkizi className={className} />,
+    son7: <IconSon7 className={className} />,
+    home: <IconHome className={className} />,
+    hedef: <IconHedefiTuttur className={className} />,
+    draft: <IconDraftinho className={className} />,
+  };
+  return map[id];
+}
+
+function DesktopNavLink({ item, active }: { item: NavItem; active: boolean }) {
+  const label = item.shortLabel ?? item.label;
+  return (
+    <Link
+      href={item.href}
+      className={`app-nav-link ${active ? "app-nav-link-active" : ""}`}
+      aria-current={active ? "page" : undefined}
+    >
+      <TabIcon id={item.icon} className="h-4 w-4 shrink-0 opacity-90" />
+      <span className="truncate">{label}</span>
+    </Link>
+  );
+}
 
 export function Navbar() {
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-40 border-b border-pitch-light/40 bg-pitch-dark/95 backdrop-blur-md">
-      <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3 sm:px-6">
+    <header className="sticky top-0 z-40 border-b border-white/[0.06] bg-pitch-dark/92 backdrop-blur-md">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-2.5 sm:px-6 sm:py-3">
         <Link
           href="/"
           className="rounded-lg outline-offset-2 focus-visible:outline focus-visible:outline-2 focus-visible:outline-gold"
@@ -18,26 +51,14 @@ export function Navbar() {
           <Logo />
         </Link>
 
-        <nav
-          className="hidden max-w-[calc(100%-12rem)] flex-1 items-center justify-end gap-0.5 overflow-x-auto lg:flex"
-          aria-label="Ana menü"
-        >
-          {DESKTOP_NAV_LINKS.map((item) => {
-            const active = pathname === item.href;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                className={`whitespace-nowrap rounded-lg px-2.5 py-2 text-sm font-medium transition xl:px-3 ${
-                  active
-                    ? "bg-pitch-light/35 text-white"
-                    : "text-pitch-line/90 hover:bg-pitch-light/25 hover:text-white"
-                }`}
-              >
-                {item.shortLabel ?? item.label}
-              </Link>
-            );
-          })}
+        <nav className="app-nav-track hidden lg:flex" aria-label="Mod seçimi">
+          {DESKTOP_NAV_LINKS.map((item) => (
+            <DesktopNavLink
+              key={item.href}
+              item={item}
+              active={pathname === item.href}
+            />
+          ))}
         </nav>
       </div>
     </header>

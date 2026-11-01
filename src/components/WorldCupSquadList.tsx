@@ -23,12 +23,14 @@ export function WorldCupSquadList({
   const [selected, setSelected] = useState<WorldCupSquadCountryEntry | null>(null);
 
   if (loading) {
-    return <p className="py-6 text-center text-sm text-pitch-line/65">Yükleniyor…</p>;
+    return (
+      <p className="py-6 text-center text-sm text-pitch-line/55">Yükleniyor…</p>
+    );
   }
 
   if (entries.length === 0) {
     return (
-      <p className="py-8 text-center text-sm text-pitch-line/60">
+      <p className="py-8 text-center text-sm text-pitch-line/50">
         {hasSearchQuery ? emptySearchMessage : emptyMessage}
       </p>
     );
@@ -42,10 +44,26 @@ export function WorldCupSquadList({
             <button
               type="button"
               onClick={() => setSelected(entry)}
-              className="flex w-full flex-col items-center gap-2.5 rounded-xl border border-white/10 bg-[rgba(6,18,12,0.4)] px-2 py-4 transition-colors hover:border-gold/30 hover:bg-[rgba(6,18,12,0.55)] active:scale-[0.98]"
+              className="draft-country-tile group w-full text-left outline-none transition duration-300 active:scale-[0.98] focus-visible:rounded-2xl focus-visible:ring-2 focus-visible:ring-gold/45 focus-visible:ring-offset-2 focus-visible:ring-offset-pitch-dark"
             >
-              <CountryFlag country={entry.country} size="card" />
-              <span className="line-clamp-2 w-full text-center text-sm font-medium leading-snug text-white">
+              <span
+                className="pointer-events-none absolute inset-x-0 top-0 z-10 h-px bg-gradient-to-r from-transparent via-gold/45 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                aria-hidden
+              />
+              <div className="relative aspect-[5/3] w-full overflow-hidden">
+                <div className="cheat-orbit-mesh pointer-events-none absolute inset-0" />
+                <div className="cheat-orbit-aurora pointer-events-none absolute inset-0 opacity-60" />
+                <div className="cheat-orbit-grid pointer-events-none absolute inset-0 opacity-[0.2]" />
+                <div className="pointer-events-none absolute inset-x-0 top-0 h-1/3 bg-gradient-to-b from-white/[0.07] to-transparent" />
+                <div className="relative flex h-full items-center justify-center p-2 sm:p-2.5">
+                  <CountryFlag
+                    country={entry.country}
+                    size="tile"
+                    className="!h-full !max-h-full !w-full !max-w-full !rounded-md !border !border-white/20 !shadow-[0_4px_16px_rgba(0,0,0,0.35)]"
+                  />
+                </div>
+              </div>
+              <span className="draft-country-tile-label block truncate px-2 py-2.5 text-center text-[11px] font-semibold leading-tight tracking-tight sm:text-xs">
                 {entry.country}
               </span>
             </button>

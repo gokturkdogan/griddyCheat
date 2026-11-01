@@ -9,7 +9,9 @@
     "lint": "next lint",
     "db:init": "node --env-file=.env scripts/init-db.mjs",
     "db:init:worldcup-youngest": "node --env-file=.env scripts/init-worldcupyoungest.mjs",
-    "db:init:oldest-worldcup": "node --env-file=.env scripts/init-oldestworldcup.mjs"
+    "db:init:oldest-worldcup": "node --env-file=.env scripts/init-oldestworldcup.mjs",
+    "db:seed:worldcup-youngest-pdf": "node --env-file=.env scripts/seed-worldcup-youngest-from-pdf.mjs",
+    "db:seed:worldcup-oldest-pdf": "node --env-file=.env scripts/seed-worldcup-oldest-from-pdf.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4",
@@ -24,6 +26,7 @@
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.16.0",
     "eslint-config-next": "^15.1.0",
+    "pdf-parse": "^1.1.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
     "typescript": "^5.7.2"

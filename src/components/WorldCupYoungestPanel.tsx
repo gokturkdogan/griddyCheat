@@ -41,7 +41,7 @@ export function WorldCupYoungestPanel() {
   }, [all, query]);
 
   return (
-    <section className="p-3 sm:p-4">
+    <section className="pt-0.5">
       <WorldCupSquadToolbar
         searchId="wc-youngest-search"
         query={query}

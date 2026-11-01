@@ -31,6 +31,10 @@ const COUNTRY_FLAG_CODES: Record<string, string> = {
   kamerun: "cm",
   senegal: "sn",
   fas: "ma",
+  fildisisahili: "ci",
+  curacao: "cw",
+  norvec: "no",
+  katar: "qa",
   misir: "eg",
   nijerya: "ng",
   gana: "gh",
@@ -44,13 +48,32 @@ const COUNTRY_FLAG_CODES: Record<string, string> = {
   iran: "ir",
   suudiarabistan: "sa",
   catari: "qa",
-  cin: "cn",
+  cezayir: "dz",
+  bosnahersek: "ba",
+  yesilburun: "cv",
+  kongo: "cd",
+  kongodc: "cd",
+  cekya: "cz",
+  haiti: "ht",
+  urdun: "jo",
+  yenizelanda: "nz",
+  irak: "iq",
+  tunus: "tn",
+  isvec: "se",
+  guneyafrika: "za",
+  ozbekistan: "uz",
 };
 
 function normalizeCountryKey(country: string): string {
   return country
     .trim()
     .toLocaleLowerCase("tr")
+    .replace(/ı/g, "i")
+    .replace(/ş/g, "s")
+    .replace(/ç/g, "c")
+    .replace(/ğ/g, "g")
+    .replace(/ö/g, "o")
+    .replace(/ü/g, "u")
     .normalize("NFD")
     .replace(/\p{M}/gu, "")
     .replace(/\s+/g, "");

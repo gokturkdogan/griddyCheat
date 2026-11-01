@@ -14,7 +14,7 @@ export function parseWorldCupYoungestPlayers(
     const surname = String(p.surname ?? "").trim();
     const age = Number(p.age);
 
-    if (!position || !name || !surname || !Number.isFinite(age) || age < 0) {
+    if (!position || !name || !Number.isFinite(age) || age < 0) {
       return null;
     }
 
