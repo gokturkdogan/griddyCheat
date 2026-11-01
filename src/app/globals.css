@@ -291,6 +291,176 @@ body {
   }
 }
 
+/* —— Draftinho tabs (cheat-engine panel) —— */
+.draft-tab-shell {
+  box-shadow:
+    0 8px 28px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.draft-tab-indicator {
+  background: linear-gradient(
+    135deg,
+    rgba(244, 208, 63, 0.14) 0%,
+    rgba(74, 222, 128, 0.1) 45%,
+    rgba(244, 208, 63, 0.08) 100%
+  );
+  border: 1px solid rgba(244, 208, 63, 0.22);
+  box-shadow:
+    0 0 24px rgba(74, 222, 128, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  transition:
+    left 0.45s cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 0.35s ease;
+}
+
+.draft-tab-btn:focus-visible {
+  outline: 2px solid rgba(244, 208, 63, 0.55);
+  outline-offset: 2px;
+}
+
+.draft-tab-scan {
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(74, 222, 128, 0.04) 48%,
+    rgba(255, 255, 255, 0.05) 50%,
+    transparent 52%
+  );
+  background-size: 100% 220%;
+  animation: draft-tab-scan 7s linear infinite;
+}
+
+.draft-tab-panel {
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.draft-tab-panel-border {
+  padding: 1px;
+  background: conic-gradient(
+    from 0deg,
+    transparent,
+    rgba(244, 208, 63, 0.35),
+    rgba(74, 222, 128, 0.25),
+    transparent 55%,
+    transparent
+  );
+  animation: draft-tab-border-spin 8s linear infinite;
+  mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+  opacity: 0.55;
+}
+
+.draft-tab-pulse {
+  animation: draft-tab-pulse 2.2s ease-in-out infinite;
+}
+
+.draft-tab-content-enter {
+  animation: draft-tab-content-enter 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes draft-tab-scan {
+  0% {
+    background-position: 0 -100%;
+  }
+  100% {
+    background-position: 0 200%;
+  }
+}
+
+@keyframes draft-tab-border-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes draft-tab-pulse {
+  0%,
+  100% {
+    opacity: 0.45;
+    box-shadow: 0 0 0 rgba(74, 222, 128, 0);
+  }
+  50% {
+    opacity: 1;
+    box-shadow: 0 0 10px rgba(74, 222, 128, 0.85);
+  }
+}
+
+@keyframes draft-tab-content-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+    filter: blur(4px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .draft-tab-scan,
+  .draft-tab-panel-border,
+  .draft-tab-pulse,
+  .draft-tab-content-enter,
+  .draft-tab-indicator {
+    animation: none;
+    transition: none;
+  }
+
+  .draft-sub-tab-indicator {
+    animation: none;
+    transition: none;
+  }
+}
+
+/* Draftinho · alt sekmeler */
+.draft-sub-tab-shell {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.04),
+    0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.draft-sub-tab-btn-active {
+  background: linear-gradient(
+    135deg,
+    rgba(244, 208, 63, 0.12) 0%,
+    rgba(74, 222, 128, 0.08) 100%
+  );
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.07),
+    0 0 20px rgba(244, 208, 63, 0.08);
+  border: 1px solid rgba(244, 208, 63, 0.18);
+}
+
+.draft-sub-tab-indicator {
+  background: linear-gradient(
+    135deg,
+    rgba(244, 208, 63, 0.1) 0%,
+    rgba(74, 222, 128, 0.08) 50%,
+    rgba(244, 208, 63, 0.06) 100%
+  );
+  border: 1px solid rgba(244, 208, 63, 0.16);
+  box-shadow: 0 0 16px rgba(74, 222, 128, 0.1);
+  transition: left 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.draft-sub-tab-btn:focus-visible {
+  outline: 2px solid rgba(244, 208, 63, 0.45);
+  outline-offset: 1px;
+}
+
+.draft-sub-tab-panel {
+  background: rgba(2, 10, 7, 0.35);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
 @media (prefers-reduced-motion: reduce) {
   .cheat-orbit-spin-slow,
   .cheat-orbit-spin-mid,

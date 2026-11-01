@@ -1,14 +1,10 @@
-import { ModulePlaceholder } from "@/components/ModulePlaceholder";
+import { DraftinhoClient } from "@/components/DraftinhoClient";
 
 export const metadata = {
   title: "Draftinho | Griddy Games",
+  description: "Draftinho — Dünya Kupası Serisi ve Kariyer Golü modülleri",
 };
 
 export default function DraftinhoPage() {
-  return (
-    <ModulePlaceholder
-      title="Draftinho"
-      description="Draftinho modu için cheat ve notlar burada toplanacak."
-    />
-  );
+  return <DraftinhoClient />;
 }

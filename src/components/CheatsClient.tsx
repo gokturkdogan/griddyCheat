@@ -102,7 +102,7 @@ export function CheatsClient({
           {query ? "Aramaya uygun kayıt yok." : "Henüz kayıt yok — Yeni ekle ile başlayın."}
         </p>
       ) : (
-        <ul className="grid grid-cols-3 gap-2.5 sm:gap-3">
+        <ul className="grid grid-cols-3 gap-2.5 sm:gap-3 lg:grid-cols-5">
           {filtered.map((cheat) => (
             <li key={cheat.id}>
               <CheatCard cheat={cheat} onOpen={() => setViewCheat(cheat)} />

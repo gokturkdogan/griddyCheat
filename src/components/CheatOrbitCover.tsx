@@ -1,5 +1,79 @@
-/** Tüm kartlarda ortak animasyonlu orbit kapak */
-export function CheatOrbitCover() {
+/** Tüm kartlarda ortak animasyonlu orbit kapak — her zaman lig | bayrak (2 hücre) */
+type Props = {
+  flagSrc?: string | null;
+  leagueLogoUrl?: string | null;
+};
+
+function CoverPlaceholder({ variant }: { variant: "flag" | "league" }) {
+  const isLeague = variant === "league";
+  return (
+    <div className="flex h-full min-h-0 w-full flex-col items-center justify-center gap-1 bg-neutral-100">
+      <div
+        className={`flex h-[42%] max-h-10 w-[42%] max-w-10 items-center justify-center rounded-md border border-dashed border-neutral-300 text-neutral-400`}
+      >
+        <svg
+          className="h-1/2 w-1/2"
+          viewBox="0 0 24 24"
+          fill="none"
+          aria-hidden
+        >
+          <path
+            d="M8 12h8M12 8v8"
+            stroke="currentColor"
+            strokeWidth="1.5"
+            strokeLinecap="round"
+            opacity="0.6"
+          />
+        </svg>
+      </div>
+      <span className="font-mono text-[8px] uppercase tracking-wider text-neutral-400">
+        {isLeague ? "lig" : "ülke"}
+      </span>
+    </div>
+  );
+}
+
+function CoverFlagCell({ src }: { src: string | null }) {
+  if (!src) {
+    return <CoverPlaceholder variant="flag" />;
+  }
+  return (
+    <div className="flex h-full min-h-0 w-full min-w-0 items-center justify-center bg-white p-[10%]">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={src}
+        alt=""
+        className="max-h-full max-w-full object-contain"
+        loading="lazy"
+        decoding="async"
+      />
+    </div>
+  );
+}
+
+function CoverLeagueCell({ src }: { src: string | null }) {
+  if (!src) {
+    return (
+      <div className="h-full min-h-0 border-r border-neutral-200">
+        <CoverPlaceholder variant="league" />
+      </div>
+    );
+  }
+  return (
+    <div className="flex h-full min-h-0 w-full min-w-0 items-center justify-center border-r border-neutral-200 bg-white p-[10%]">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={src}
+        alt=""
+        className="max-h-full max-w-full object-contain"
+        loading="lazy"
+        decoding="async"
+      />
+    </div>
+  );
+}
+
+export function CheatOrbitCover({ flagSrc = null, leagueLogoUrl = null }: Props) {
   return (
     <div
       className="cheat-orbit-cover group/cover relative aspect-square w-full overflow-hidden"
@@ -46,16 +120,10 @@ export function CheatOrbitCover() {
         />
       </div>
 
-      <div className="absolute inset-0 flex items-center justify-center">
-        <div className="cheat-orbit-core relative flex h-[38%] w-[38%] items-center justify-center rounded-full border border-gold/30 bg-[rgba(6,24,16,0.85)] shadow-[inset_0_0_20px_rgba(74,222,128,0.12)]">
-          <svg className="h-[55%] w-[55%]" viewBox="0 0 48 48" fill="none">
-            <circle cx="24" cy="24" r="18" stroke="rgba(255,255,255,0.35)" strokeWidth="1.2" />
-            <path
-              d="M24 10 L28 18 L24 22 L20 18 Z M24 26 L28 34 L24 38 L20 34 Z M12 24 L18 20 L18 28 Z M36 24 L30 20 L30 28 Z"
-              fill="rgba(244,208,63,0.35)"
-            />
-            <circle cx="24" cy="24" r="3" fill="rgba(244,208,63,0.9)" className="cheat-orbit-pulse" />
-          </svg>
+      <div className="absolute inset-0 flex items-center justify-center p-[16%]">
+        <div className="cheat-orbit-core grid h-full w-full min-h-0 grid-cols-2 overflow-hidden rounded-lg border border-gold/35 bg-white shadow-[0_0_20px_rgba(0,0,0,0.35)]">
+          <CoverLeagueCell src={leagueLogoUrl} />
+          <CoverFlagCell src={flagSrc} />
         </div>
       </div>
 

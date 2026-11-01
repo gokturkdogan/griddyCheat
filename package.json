@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "db:init": "node --env-file=.env scripts/init-db.mjs"
+    "db:init": "node --env-file=.env scripts/init-db.mjs",
+    "db:init:worldcup-youngest": "node --env-file=.env scripts/init-worldcupyoungest.mjs",
+    "db:init:oldest-worldcup": "node --env-file=.env scripts/init-oldestworldcup.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4",
