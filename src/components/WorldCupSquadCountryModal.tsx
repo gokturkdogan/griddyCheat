@@ -1,13 +1,25 @@
 "use client";
 
+import { ClubLogo } from "@/components/ClubLogo";
 import { CountryFlag } from "@/components/CountryFlag";
 import { formatPlayerName, positionEmoji } from "@/lib/country-display";
-import type { WorldCupSquadCountryEntry } from "@/lib/types";
+import type { TallestSquadPlayer, WorldCupSquadCountryEntry } from "@/lib/types";
 import { useEffect, useId } from "react";
 
+type SquadModalEntry = WorldCupSquadCountryEntry | {
+  id: number;
+  country: string;
+  players: TallestSquadPlayer[];
+};
+
+type PlayerStat = "age" | "height";
+
 type Props = {
-  entry: WorldCupSquadCountryEntry | null;
+  entry: SquadModalEntry | null;
   onClose: () => void;
+  playerStat?: PlayerStat;
+  modalSubtitle?: string;
+  headerVisual?: "country" | "club";
 };
 
 function CloseIcon() {
@@ -23,7 +35,13 @@ function CloseIcon() {
   );
 }
 
-export function WorldCupSquadCountryModal({ entry, onClose }: Props) {
+export function WorldCupSquadCountryModal({
+  entry,
+  onClose,
+  playerStat = "age",
+  modalSubtitle = "Kadro",
+  headerVisual = "country",
+}: Props) {
   const titleId = useId();
 
   useEffect(() => {
@@ -70,12 +88,22 @@ export function WorldCupSquadCountryModal({ entry, onClose }: Props) {
           </button>
 
           <div className="relative flex flex-col items-center gap-2.5 px-8 pt-2 text-center">
-            <span className="rounded-2xl bg-white p-2.5 shadow-md ring-1 ring-black/[0.06]">
-              <CountryFlag country={entry.country} size="modal" />
+            <span
+              className={
+                headerVisual === "club"
+                  ? "inline-flex"
+                  : "rounded-2xl bg-white p-2.5 shadow-md ring-1 ring-black/[0.06]"
+              }
+            >
+              {headerVisual === "club" ? (
+                <ClubLogo team={entry.country} size="modal" />
+              ) : (
+                <CountryFlag country={entry.country} size="modal" />
+              )}
             </span>
             <div>
               <p className="mb-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-emerald-400/85">
-                Kadro
+                {modalSubtitle}
               </p>
               <h2 id={titleId} className="text-lg font-bold leading-snug text-white">
                 {entry.country}
@@ -103,7 +131,11 @@ export function WorldCupSquadCountryModal({ entry, onClose }: Props) {
                 {formatPlayerName(player.name, player.surname)}
               </p>
               <span className="shrink-0 rounded-lg border border-gold/25 bg-gold/[0.08] px-2.5 py-1 text-xs font-semibold tabular-nums text-gold">
-                {player.age} yaş
+                {playerStat === "height" && "height_cm" in player
+                  ? `${player.height_cm} cm`
+                  : "age" in player
+                    ? `${player.age} yaş`
+                    : "—"}
               </span>
             </li>
           ))}

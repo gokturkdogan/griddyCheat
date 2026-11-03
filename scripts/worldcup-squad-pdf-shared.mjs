@@ -75,12 +75,12 @@ export const COUNTRY_TR = {
 };
 
 export function defaultPdfPath() {
+  const inRepo = path.join(__dirname, "..", "attachments", "SquadLists-English.pdf");
   const fromAttachments =
     "c:\\Users\\goktu\\.cursor\\projects\\c-Users-goktu-OneDrive-Masa-st-Projects-griddyCheat\\attachments\\7026fd65-f01e-47cf-91f2-04f819903a29\\SquadLists-English.pdf";
-  const inRepo = path.join(__dirname, "..", "attachments", "SquadLists-English.pdf");
-  if (fs.existsSync(fromAttachments)) return fromAttachments;
   if (fs.existsSync(inRepo)) return inRepo;
-  return fromAttachments;
+  if (fs.existsSync(fromAttachments)) return fromAttachments;
+  return inRepo;
 }
 
 function ageAt(dobStr) {
@@ -143,6 +143,22 @@ function parseNameFromBlob(blob) {
   return { name: raw.slice(0, 24), surname: "" };
 }
 
+/** DOB sonrası segmentten HEIGHT (CM) */
+function parseHeightAfterDob(tail) {
+  const afterClub = tail.match(/\)\s*(\d{3})(\d+)/);
+  if (afterClub) {
+    const h = Number(afterClub[1]);
+    if (h >= 150 && h <= 220) return h;
+  }
+  const table = tail.match(/\|\s*(\d{2,3})\s*\|\s*\d+/);
+  if (table) return Number(table[1]);
+  const nums = [...tail.matchAll(/\b(1[5-9]\d|2[0-2]\d)\b/g)].map((m) =>
+    Number(m[1]),
+  );
+  if (nums.length === 0) return null;
+  return nums[0];
+}
+
 export function parseSquads(text) {
   const headerRe = /\n([^\n]+?) \(([A-Z]{3})\)\n#POSPLAYER/g;
   const headers = [...text.matchAll(headerRe)];
@@ -159,8 +175,14 @@ export function parseSquads(text) {
     let match;
     while ((match = lineRe.exec(block)) !== null) {
       const pos = match[1];
+      const rest = block.slice(match.index + match[0].length);
+      const nextIdx = rest.search(/(?:GK|DF|MF|FW)(?=[A-Z])/);
+      const tail =
+        nextIdx >= 0 ? rest.slice(0, nextIdx) : rest.split("ROLE")[0];
       const { name, surname } = parseNameFromBlob(match[2]);
       const dob = match[3];
+      const height_cm = parseHeightAfterDob(tail);
+      if (height_cm == null || height_cm < 150 || height_cm > 220) continue;
       players.push({
         pos,
         name,
@@ -168,6 +190,7 @@ export function parseSquads(text) {
         dob,
         age: ageAt(dob),
         dobTime: dobToTime(dob),
+        height_cm,
       });
     }
 
@@ -205,6 +228,44 @@ export function pickSquad(players, mode) {
   const row = (p) => ({
     position: POS_TR[p.pos],
     age: p.age,
+    name: p.name,
+    surname: p.surname,
+  });
+
+  return [
+    ...byPos.GK.slice(0, SQUAD_NEED.GK).map(row),
+    ...byPos.DF.slice(0, SQUAD_NEED.DF).map(row),
+    ...byPos.MF.slice(0, SQUAD_NEED.MF).map(row),
+    ...byPos.FW.slice(0, SQUAD_NEED.FW).map(row),
+  ];
+}
+
+/**
+ * @param {"tallest"|"shortest"} mode
+ */
+export function pickSquadByHeight(players, mode) {
+  const byPos = { GK: [], DF: [], MF: [], FW: [] };
+  for (const p of players) {
+    if (byPos[p.pos]) byPos[p.pos].push(p);
+  }
+
+  const sortDir =
+    mode === "tallest"
+      ? (a, b) => b.height_cm - a.height_cm
+      : (a, b) => a.height_cm - b.height_cm;
+  for (const k of Object.keys(byPos)) {
+    byPos[k].sort(sortDir);
+  }
+
+  for (const pos of ["GK", "DF", "MF", "FW"]) {
+    if (byPos[pos].length < SQUAD_NEED[pos]) {
+      return null;
+    }
+  }
+
+  const row = (p) => ({
+    position: POS_TR[p.pos],
+    height_cm: p.height_cm,
     name: p.name,
     surname: p.surname,
   });

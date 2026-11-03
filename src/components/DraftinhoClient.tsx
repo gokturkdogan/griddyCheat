@@ -1,5 +1,6 @@
 "use client";
 
+import { DraftinhoTallestSquadPanel } from "@/components/DraftinhoTallestSquadPanel";
 import { DraftinhoWorldCupSeriesPanel } from "@/components/DraftinhoWorldCupSeriesPanel";
 import {
   AppSegmentTabPanel,
@@ -11,6 +12,7 @@ import { useId, useState } from "react";
 
 const TABS: (AppSegmentTab & { emptyHint?: string })[] = [
   { id: "dunya-kupasi", label: "Dünya Kupası" },
+  { id: "en-uzun-kadro", label: "En Uzun Kadro" },
   { id: "kariyer-golu", label: "Kariyer Golü", emptyHint: "Kariyer golü modu içerikleri hazırlanıyor." },
 ];
 
@@ -51,6 +53,14 @@ export function DraftinhoClient() {
           hidden={activeTab.id !== "dunya-kupasi"}
         >
           <DraftinhoWorldCupSeriesPanel />
+        </AppSegmentTabPanel>
+
+        <AppSegmentTabPanel
+          id={`${panelPrefix}-en-uzun-kadro`}
+          labelledBy={`${tabListId}-en-uzun-kadro`}
+          hidden={activeTab.id !== "en-uzun-kadro"}
+        >
+          <DraftinhoTallestSquadPanel />
         </AppSegmentTabPanel>
 
         <AppSegmentTabPanel

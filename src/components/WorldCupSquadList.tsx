@@ -1,16 +1,29 @@
 "use client";
 
+import { ClubLogo } from "@/components/ClubLogo";
 import { CountryFlag } from "@/components/CountryFlag";
 import { WorldCupSquadCountryModal } from "@/components/WorldCupSquadCountryModal";
-import type { WorldCupSquadCountryEntry } from "@/lib/types";
+import type { TallestSquadPlayer, WorldCupSquadCountryEntry } from "@/lib/types";
 import { useState } from "react";
 
+type SquadListEntry = WorldCupSquadCountryEntry | {
+  id: number;
+  country: string;
+  players: TallestSquadPlayer[];
+};
+
+type PlayerStat = "age" | "height";
+
 type Props = {
-  entries: WorldCupSquadCountryEntry[];
+  entries: SquadListEntry[];
   loading: boolean;
   emptyMessage: string;
   emptySearchMessage: string;
   hasSearchQuery: boolean;
+  playerStat?: PlayerStat;
+  modalSubtitle?: string;
+  /** Güncel kulüp listesi: amblem; yoksa ülke bayrağı */
+  tileVisual?: "country" | "club";
 };
 
 export function WorldCupSquadList({
@@ -19,8 +32,11 @@ export function WorldCupSquadList({
   emptyMessage,
   emptySearchMessage,
   hasSearchQuery,
+  playerStat = "age",
+  modalSubtitle = "Kadro",
+  tileVisual = "country",
 }: Props) {
-  const [selected, setSelected] = useState<WorldCupSquadCountryEntry | null>(null);
+  const [selected, setSelected] = useState<SquadListEntry | null>(null);
 
   if (loading) {
     return (
@@ -56,11 +72,19 @@ export function WorldCupSquadList({
                 <div className="cheat-orbit-grid pointer-events-none absolute inset-0 opacity-[0.2]" />
                 <div className="pointer-events-none absolute inset-x-0 top-0 h-1/3 bg-gradient-to-b from-white/[0.07] to-transparent" />
                 <div className="relative flex h-full items-center justify-center p-2 sm:p-2.5">
-                  <CountryFlag
-                    country={entry.country}
-                    size="tile"
-                    className="!h-full !max-h-full !w-full !max-w-full !rounded-md !border !border-white/20 !shadow-[0_4px_16px_rgba(0,0,0,0.35)]"
-                  />
+                  {tileVisual === "club" ? (
+                    <ClubLogo
+                      team={entry.country}
+                      size="tile"
+                      className="!h-full !max-h-full !w-full !max-w-full"
+                    />
+                  ) : (
+                    <CountryFlag
+                      country={entry.country}
+                      size="tile"
+                      className="!h-full !max-h-full !w-full !max-w-full !rounded-md !border !border-white/20 !shadow-[0_4px_16px_rgba(0,0,0,0.35)]"
+                    />
+                  )}
                 </div>
               </div>
               <span className="draft-country-tile-label block truncate px-2 py-2.5 text-center text-[11px] font-semibold leading-tight tracking-tight sm:text-xs">
@@ -74,6 +98,9 @@ export function WorldCupSquadList({
       <WorldCupSquadCountryModal
         entry={selected}
         onClose={() => setSelected(null)}
+        playerStat={playerStat}
+        modalSubtitle={modalSubtitle}
+        headerVisual={tileVisual}
       />
     </>
   );

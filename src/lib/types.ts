@@ -32,8 +32,69 @@ export type OldestWorldCup = {
   updated_at: string;
 };
 
+/** En Uzun DK Kadrosu · worldcuptallest (FIFA squad PDF, boy) */
+export type WorldCupHeightPlayer = {
+  position: string;
+  height_cm: number;
+  name: string;
+  surname: string;
+};
+
+export type WorldCupTallest = {
+  id: number;
+  country: string;
+  players: WorldCupHeightPlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
+/** En Kısa DK Kadrosu · worldcupshortest */
+export type WorldCupShortest = {
+  id: number;
+  country: string;
+  players: WorldCupHeightPlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
 export type WorldCupSquadCountryEntry = {
   id: number;
   country: string;
   players: WorldCupYoungestPlayer[];
+};
+
+/** En Uzun Kadro · tallestsquad (ülke · güncel / tüm zamanlar) */
+export type TallestSquadPlayer = {
+  position: string;
+  name: string;
+  surname: string;
+  height_cm: number;
+};
+
+export type TallestSquadEra = "current" | "all_time";
+
+export type TallestSquad = {
+  id: number;
+  country: string;
+  era: TallestSquadEra;
+  players: TallestSquadPlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
+export type TallestSquadCountryEntry = {
+  id: number;
+  country: string;
+  players: TallestSquadPlayer[];
+};
+
+/** Güncel kulüp · tallest_current (Transfermarkt) */
+export type TallestCurrentPlayer = TallestSquadPlayer;
+
+export type TallestCurrent = {
+  id: number;
+  team: string;
+  players: TallestCurrentPlayer[];
+  created_at: string;
+  updated_at: string;
 };

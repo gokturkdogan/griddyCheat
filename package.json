@@ -10,8 +10,16 @@
     "db:init": "node --env-file=.env scripts/init-db.mjs",
     "db:init:worldcup-youngest": "node --env-file=.env scripts/init-worldcupyoungest.mjs",
     "db:init:oldest-worldcup": "node --env-file=.env scripts/init-oldestworldcup.mjs",
+    "db:init:worldcup-tallest": "node --env-file=.env scripts/init-worldcuptallest.mjs",
+    "db:init:worldcup-shortest": "node --env-file=.env scripts/init-worldcupshortest.mjs",
+    "db:init:tallestsquad": "node --env-file=.env scripts/init-tallestsquad.mjs",
+    "db:init:tallest-current": "node --env-file=.env scripts/init-tallest-current.mjs",
+    "db:seed:tallest-current": "node --env-file=.env scripts/seed-tallest-current.mjs",
+    "db:drop:legacy": "node --env-file=.env scripts/drop-legacy-tables.mjs",
     "db:seed:worldcup-youngest-pdf": "node --env-file=.env scripts/seed-worldcup-youngest-from-pdf.mjs",
     "db:seed:worldcup-oldest-pdf": "node --env-file=.env scripts/seed-worldcup-oldest-from-pdf.mjs",
+    "db:seed:worldcup-tallest-pdf": "node --env-file=.env scripts/seed-worldcup-tallest-from-pdf.mjs",
+    "db:seed:worldcup-shortest-pdf": "node --env-file=.env scripts/seed-worldcup-shortest-from-pdf.mjs",
     "pwa:icons": "node scripts/generate-pwa-icons.mjs"
   },
   "dependencies": {
