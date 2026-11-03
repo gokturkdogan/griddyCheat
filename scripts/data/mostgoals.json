@@ -1,0 +1,3410 @@
+[
+  {
+    "country": "ABD",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Chris",
+        "surname": "Brady",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Alex",
+        "surname": "Freeman",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Auston",
+        "surname": "Trusty",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Malik",
+        "surname": "Tillman",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sebastian",
+        "surname": "Berhalter",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gio",
+        "surname": "Reyna",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brenden",
+        "surname": "Aaronson",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Folarin",
+        "surname": "Balogun",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Ricardo",
+        "surname": "Pepi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Haji",
+        "surname": "Wright",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Alejandro",
+        "surname": "Zendejas",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Almanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Oliver",
+        "surname": "Baumann",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Nathaniel",
+        "surname": "Brown",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "Schlotterbeck",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jamal",
+        "surname": "Musiala",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Felix",
+        "surname": "Nmecha",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leroy",
+        "surname": "Sané",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nadiem",
+        "surname": "Amiri",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kai",
+        "surname": "Havertz",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Deniz",
+        "surname": "Undav",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Maximilian",
+        "surname": "Beier",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jamie",
+        "surname": "Leweling",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Arjantin",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Emiliano",
+        "surname": "Martínez",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Lisandro",
+        "surname": "Martínez",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Cristian",
+        "surname": "Romero",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Enzo",
+        "surname": "Fernández",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Giovani",
+        "surname": "Lo Celso",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alexis",
+        "surname": "Mac Allister",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thiago",
+        "surname": "Almada",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Lionel",
+        "surname": "Messi",
+        "goals": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Lautaro",
+        "surname": "Martínez",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Julián",
+        "surname": "Álvarez",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Flaco",
+        "surname": "López",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Avustralya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Beach",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Jordy",
+        "surname": "Bos",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Cameron",
+        "surname": "Burgess",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nestory",
+        "surname": "Irankunda",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Connor",
+        "surname": "Metcalfe",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aziz",
+        "surname": "Behich",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Miloš",
+        "surname": "Degenek",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Awer",
+        "surname": "Mabil",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Mo",
+        "surname": "Touré",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Tete",
+        "surname": "Yengi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Cammy",
+        "surname": "Devlin",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Avusturya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Pentz",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Affengruber",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Alaba",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marcel",
+        "surname": "Sabitzer",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Romano",
+        "surname": "Schmid",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christoph",
+        "surname": "Baumgartner",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carney",
+        "surname": "Chukwuemeka",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Marko",
+        "surname": "Arnautović",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Saša",
+        "surname": "Kalajdžić",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Michael",
+        "surname": "Gregoritsch",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Patrick",
+        "surname": "Wimmer",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Belçika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Thibaut",
+        "surname": "Courtois",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Timothy",
+        "surname": "Castagne",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Maxim",
+        "surname": "De Cuyper",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Charles",
+        "surname": "De Ketelaere",
+        "goals": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leandro",
+        "surname": "Trossard",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Youri",
+        "surname": "Tielemans",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hans",
+        "surname": "Vanaken",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Romelu",
+        "surname": "Lukaku",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Matias",
+        "surname": "Fernandez-Pardo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "De Bruyne",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Alexis",
+        "surname": "Saelemaekers",
+        "goals": 1
+      }
+    ]
+  },
+  {
+    "country": "Bosna Hersek",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Osman",
+        "surname": "Hadžikić",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Nidal",
+        "surname": "Čelik",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Amar",
+        "surname": "Dedić",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ermin",
+        "surname": "Mahmić",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kerim",
+        "surname": "Alajbegović",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Esmir",
+        "surname": "Bajraktarevic",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ivan",
+        "surname": "Bašić",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jovo",
+        "surname": "Lukić",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Samed",
+        "surname": "Baždar",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ermedin",
+        "surname": "Demirović",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Edin",
+        "surname": "Džeko",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Brezilya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alisson",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Gleison",
+        "surname": "Bremer",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Danilo",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Casemiro",
+        "surname": "",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gabriel",
+        "surname": "Martinelli",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Neymar",
+        "surname": "",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fabinho",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Vinicius",
+        "surname": "Júnior",
+        "goals": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Matheus",
+        "surname": "Cunha",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Endrick",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Luiz",
+        "surname": "Henrique",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Cezayir",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Oussama",
+        "surname": "Benbot",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Rafik",
+        "surname": "Belghali",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Achref",
+        "surname": "Abada",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Riyad",
+        "surname": "Mahrez",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Amoura",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Houssem",
+        "surname": "Aouar",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nabil",
+        "surname": "Bentaleb",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Nadhir",
+        "surname": "Benbouali",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Amine",
+        "surname": "Gouiri",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Adil",
+        "surname": "Boulbina",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Farés",
+        "surname": "Ghedjemis",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Tyrick",
+        "surname": "Bodak",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Riechedly",
+        "surname": "Bazoer",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Joshua",
+        "surname": "Brenet",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Livano",
+        "surname": "Comenencia",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jeremy",
+        "surname": "Antonisse",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Juninho",
+        "surname": "Bacuna",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leandro",
+        "surname": "Bacuna",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kenji",
+        "surname": "Gorré",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Sontje",
+        "surname": "Hansen",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Gervane",
+        "surname": "Kastaneer",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Brandley",
+        "surname": "Kuwas",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Çekya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lukáš",
+        "surname": "Horníček",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ladislav",
+        "surname": "Krejčí",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Štěpán",
+        "surname": "Chaloupek",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Michal",
+        "surname": "Sadílek",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lukáš",
+        "surname": "Červ",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Vladimír",
+        "surname": "Coufal",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Vladimír",
+        "surname": "Darida",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Tomáš",
+        "surname": "Chorý",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Mojmír",
+        "surname": "Chytil",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Adam",
+        "surname": "Hložek",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jan",
+        "surname": "Kuchta",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Ekvador",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Hernán",
+        "surname": "Galíndez",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Alan",
+        "surname": "Franco",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Piero",
+        "surname": "Hincapié",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nilson",
+        "surname": "Angulo",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jordy",
+        "surname": "Alcivar",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Moisés",
+        "surname": "Caicedo",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Denil",
+        "surname": "Castillo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonzalo",
+        "surname": "Plata",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Jeremy",
+        "surname": "Arévalo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jordy",
+        "surname": "Caicedo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "Rodríguez",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Fas",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yassine",
+        "surname": "Bounou",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Issa",
+        "surname": "Diop",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Achraf",
+        "surname": "Hakimi",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Azzedine",
+        "surname": "Ounahi",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gessime",
+        "surname": "Yassine",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ayoube",
+        "surname": "Amaimouni",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sofyan",
+        "surname": "Amrabat",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismael",
+        "surname": "Saibari",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Soufiane",
+        "surname": "Rahimi",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Abde",
+        "surname": "Ezzalzouli",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayoub",
+        "surname": "El Kaabi",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Fildişi Sahili",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yahia",
+        "surname": "Fofana",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Obite",
+        "surname": "N'Dicka",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Clément",
+        "surname": "Akpa",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amad",
+        "surname": "Diallo",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Franck",
+        "surname": "Kessié",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Seko",
+        "surname": "Fofana",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Evann",
+        "surname": "Guessand",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Pépé",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Elye",
+        "surname": "Wahi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ange-Yoan",
+        "surname": "Bonny",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Oumar",
+        "surname": "Diakité",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Fransa",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mike",
+        "surname": "Maignan",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Lucas",
+        "surname": "Digne",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Malo",
+        "surname": "Gusto",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ousmane",
+        "surname": "Dembélé",
+        "goals": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bradley",
+        "surname": "Barcola",
+        "goals": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Désiré",
+        "surname": "Doué",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Maghnes",
+        "surname": "Akliouche",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kylian",
+        "surname": "Mbappé",
+        "goals": 10
+      },
+      {
+        "position": "Forvet",
+        "name": "Jean-Philippe",
+        "surname": "Mateta",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Marcus",
+        "surname": "Thuram",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "Cherki",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Gana",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Joseph",
+        "surname": "Anang",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Derrick",
+        "surname": "Luckassen",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Jonas",
+        "surname": "Adjetey",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Caleb",
+        "surname": "Yirenkyi",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Augustine",
+        "surname": "Boakye",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christopher",
+        "surname": "Bonsu Baah",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abdul",
+        "surname": "Fatawu Issahaku",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jordan",
+        "surname": "Ayew",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Prince",
+        "surname": "Kwabena Adu",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Antoine",
+        "surname": "Semenyo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kamaldeen",
+        "surname": "Sulemana",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Güney Afrika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sipho",
+        "surname": "Chaine",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Bradley",
+        "surname": "Cross",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Samukele",
+        "surname": "Kabini",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thapelo",
+        "surname": "Maseko",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Teboho",
+        "surname": "Mokoena",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jayden",
+        "surname": "Adams",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Oswin",
+        "surname": "Appollis",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Lyle",
+        "surname": "Foster",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Evidence",
+        "surname": "Makgopa",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Iqraam",
+        "surname": "Rayners",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Themba",
+        "surname": "Zwane",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Güney Kore",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Song",
+        "surname": "Bum-keun",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Gi-hyuk",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Han-beom",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hwang",
+        "surname": "In-beom",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jens",
+        "surname": "Castrop",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lee",
+        "surname": "Dong-gyeong",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Cho",
+        "surname": "Gue-sung",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Oh",
+        "surname": "Hyeon-gyu",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Hwang",
+        "surname": "Hee-chan",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Son",
+        "surname": "Heung-min",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Yang",
+        "surname": "Hyun-jun",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Josué",
+        "surname": "Duverger",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ricardo",
+        "surname": "Adé",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Carlens",
+        "surname": "Arcus",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jean-Ricner",
+        "surname": "Bellegarde",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Josué",
+        "surname": "Casimir",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Louicius",
+        "surname": "Deedson",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Derrick",
+        "surname": "Etienne",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Wilson",
+        "surname": "Isidor",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Yassin",
+        "surname": "Fortuné",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Lenny",
+        "surname": "Joseph",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Duke",
+        "surname": "Lacroix",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Hırvatistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Dominik",
+        "surname": "Kotarski",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ivan",
+        "surname": "Perišić",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Duje",
+        "surname": "Ćaleta-Car",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Petar",
+        "surname": "Sučić",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nikola",
+        "surname": "Vlašić",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Toni",
+        "surname": "Fruk",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kristijan",
+        "surname": "Jakić",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ante",
+        "surname": "Budimir",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Petar",
+        "surname": "Musa",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Andrej",
+        "surname": "Kramarić",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Matanović",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Hollanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mark",
+        "surname": "Flekken",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Jan",
+        "surname": "Paul van Hecke",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Virgil",
+        "surname": "van Dijk",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Denzel",
+        "surname": "Dumfries",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Gravenberch",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Frenkie",
+        "surname": "de Jong",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Justin",
+        "surname": "Kluivert",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Brian",
+        "surname": "Brobbey",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Cody",
+        "surname": "Gakpo",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Crysencio",
+        "surname": "Summerville",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Noa",
+        "surname": "Lang",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Irak",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ahmed",
+        "surname": "Basil",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Hussein",
+        "surname": "Ali",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Frans",
+        "surname": "Dhia Putros",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amir",
+        "surname": "Al Ammari",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Youssef",
+        "surname": "Amyn",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Bayesh",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marko",
+        "surname": "Farji",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayman",
+        "surname": "Hussein",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohanad",
+        "surname": "Ali",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Al Hamadi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Qasem",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "İngiltere",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Dean",
+        "surname": "Henderson",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ezri",
+        "surname": "Konsa",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Dan",
+        "surname": "Burn",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jude",
+        "surname": "Bellingham",
+        "goals": 7
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bukayo",
+        "surname": "Saka",
+        "goals": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anthony",
+        "surname": "Gordon",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marcus",
+        "surname": "Rashford",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Harry",
+        "surname": "Kane",
+        "goals": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Ivan",
+        "surname": "Toney",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ollie",
+        "surname": "Watkins",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Declan",
+        "surname": "Rice",
+        "goals": 1
+      }
+    ]
+  },
+  {
+    "country": "İran",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alireza",
+        "surname": "Beiranvand",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ramin",
+        "surname": "Rezaeian",
+        "goals": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Rouzbeh",
+        "surname": "Cheshmi",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Mohebi",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saeid",
+        "surname": "Ezatolahi",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saman",
+        "surname": "Ghoddos",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Ghorbani",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Alipour",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Dennis",
+        "surname": "Eckert",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Mehdi",
+        "surname": "Ghayedi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Amirhossein",
+        "surname": "Hosseinzadeh",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "İskoçya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Craig",
+        "surname": "Gordon",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Grant",
+        "surname": "Hanley",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Jack",
+        "surname": "Hendry",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "John",
+        "surname": "McGinn",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Christie",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Findlay",
+        "surname": "Curtis",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lyndon",
+        "surname": "Dykes",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ché",
+        "surname": "Adams",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "George",
+        "surname": "Hirst",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Lawrence",
+        "surname": "Shankland",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ross",
+        "surname": "Stewart",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "İspanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Joan",
+        "surname": "García",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Pedro",
+        "surname": "Porro",
+        "goals": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Pau",
+        "surname": "Cubarsí",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mikel",
+        "surname": "Merino",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Álex",
+        "surname": "Baena",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fabián",
+        "surname": "Ruiz Peña",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lamine",
+        "surname": "Yamal",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Mikel",
+        "surname": "Oyarzabal",
+        "goals": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Ferran",
+        "surname": "Torres",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Gavi",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Borja",
+        "surname": "Iglesias",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "İsveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Viktor",
+        "surname": "Johansson",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Hjalmar",
+        "surname": "Ekdal",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Gudmundsson",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yasin",
+        "surname": "Ayari",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anthony",
+        "surname": "Elanga",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mattias",
+        "surname": "Svanberg",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Taha",
+        "surname": "Ali",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Viktor",
+        "surname": "Gyökeres",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Alexander",
+        "surname": "Isak",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Gustaf",
+        "surname": "Nilsson",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ken",
+        "surname": "Sema",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "İsviçre",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Marvin",
+        "surname": "Keller",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Manuel",
+        "surname": "Akanji",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Aurèle",
+        "surname": "Amenda",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Johan",
+        "surname": "Manzambi",
+        "goals": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dan",
+        "surname": "Ndoye",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ruben",
+        "surname": "Vargas",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Granit",
+        "surname": "Xhaka",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Breel",
+        "surname": "Embolo",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Michel",
+        "surname": "Aebischer",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Zeki",
+        "surname": "Amdouni",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Christian",
+        "surname": "Fassnacht",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Japonya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Tomoki",
+        "surname": "Hayakawa",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Wataru",
+        "surname": "Endo",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ko",
+        "surname": "Itakura",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Daichi",
+        "surname": "Kamada",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Junya",
+        "surname": "Itō",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Daizen",
+        "surname": "Maeda",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Keito",
+        "surname": "Nakamura",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayase",
+        "surname": "Ueda",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Keisuke",
+        "surname": "Gotō",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Shuto",
+        "surname": "Machino",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kōki",
+        "surname": "Ogawa",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Kanada",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Maxime",
+        "surname": "Crépeau",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Moïse",
+        "surname": "Bombito",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Derek",
+        "surname": "Cornelius",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Stephen",
+        "surname": "Eustáquio",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nathan",
+        "surname": "Saliba",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Ahmed",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tajon",
+        "surname": "Buchanan",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jonathan",
+        "surname": "David",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Cyle",
+        "surname": "Larin",
+        "goals": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Promise",
+        "surname": "David",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Alphonso",
+        "surname": "Davies",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Katar",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mahmoud",
+        "surname": "Abunada",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Boualem",
+        "surname": "Khoukhi",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Homam",
+        "surname": "Ahmed",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hassan",
+        "surname": "Al-Haydos",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akram",
+        "surname": "Afif",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Karim",
+        "surname": "Boudiaf",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ahmed",
+        "surname": "Fathy",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Yusuf",
+        "surname": "Abdurisag",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Alaaeldin",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Almoez",
+        "surname": "Ali",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Al-Ganehi",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Kolombiya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Álvaro",
+        "surname": "David Montero",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Muñoz",
+        "goals": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Santiago",
+        "surname": "Arias",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jhon",
+        "surname": "Arias",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jaminton",
+        "surname": "Campaz",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luis",
+        "surname": "Díaz",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Juan",
+        "surname": "Camilo Portilla",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jorge",
+        "surname": "Carrascal",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jhon",
+        "surname": "Córdoba",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Cucho",
+        "surname": "",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Juan",
+        "surname": "Quintero",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Kongo DC",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Matthieu",
+        "surname": "Epolo",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Dylan",
+        "surname": "Batubinsika",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Rocky",
+        "surname": "Bushiri",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Cipenga",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Simon",
+        "surname": "Banza",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Theo",
+        "surname": "Bongonda",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Meschak",
+        "surname": "Elia",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Yoane",
+        "surname": "Wissa",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Fiston",
+        "surname": "Mayele",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Cédric",
+        "surname": "Bakambu",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Gaël",
+        "surname": "Kakuta",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Meksika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Carlos",
+        "surname": "Acevedo",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Mateo",
+        "surname": "Chávez",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Edson",
+        "surname": "Álvarez",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Julián",
+        "surname": "Quiñones",
+        "goals": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Álvaro",
+        "surname": "Fidalgo",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luis",
+        "surname": "Romo",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Roberto",
+        "surname": "Alvarado",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Raúl",
+        "surname": "Jiménez",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Santiago",
+        "surname": "Giménez",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Armando",
+        "surname": "González",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "César",
+        "surname": "Huerta",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Mısır",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mohamed",
+        "surname": "Alaa",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Yasser",
+        "surname": "Ibrahim",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Hossam",
+        "surname": "Abdelmaguid",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Emam",
+        "surname": "Ashour",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mostafa",
+        "surname": "Ziko",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mahmoud",
+        "surname": "Saber",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Salah",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Hamza",
+        "surname": "Abdelkarim",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Omar",
+        "surname": "Marmoush",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Trézéguet",
+        "surname": "",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Adel",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Norveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ørjan",
+        "surname": "Nyland",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Marcus",
+        "surname": "Pedersen",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Leo",
+        "surname": "Østigård",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thelo",
+        "surname": "Aasgaard",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fredrik",
+        "surname": "Aursnes",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Berg",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sander",
+        "surname": "Berge",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Erling",
+        "surname": "Haaland",
+        "goals": 7
+      },
+      {
+        "position": "Forvet",
+        "name": "Antonio",
+        "surname": "Nusa",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Andreas",
+        "surname": "Schjelderup",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Oscar",
+        "surname": "Bobb",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Özbekistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Botirali",
+        "surname": "Ergashev",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Abdulla",
+        "surname": "Abdullaev",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Rustam",
+        "surname": "Ashurmatov",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abbosbek",
+        "surname": "Fayzullayev",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Khojiakbar",
+        "surname": "Alijonov",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sherzod",
+        "surname": "Esanov",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aziz",
+        "surname": "Ganiev",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Eldor",
+        "surname": "Shomurodov",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Azizbek",
+        "surname": "Amonov",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jamshid",
+        "surname": "Iskanderov",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ruslanbek",
+        "surname": "Jiyanov",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Luis",
+        "surname": "Mejía",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Michael",
+        "surname": "Amir Murillo",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Andrés",
+        "surname": "Andrade Cedeño",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yoel",
+        "surname": "Bárcenas",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "César",
+        "surname": "Blackman",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adalberto",
+        "surname": "Carrasquilla",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismael",
+        "surname": "Díaz",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "José",
+        "surname": "Fajardo",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "José",
+        "surname": "Luis Rodríguez",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Cristian",
+        "surname": "Martínez",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Alberto",
+        "surname": "Quintero",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Gatito",
+        "surname": "Fernández",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Omar",
+        "surname": "Alderete",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Júnior",
+        "surname": "Alonso",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matías",
+        "surname": "Galarza",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mauricio",
+        "surname": "",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Miguel",
+        "surname": "Almirón",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Damián",
+        "surname": "Bobadilla",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Julio",
+        "surname": "Enciso",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Arce",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Gabriel",
+        "surname": "Ávalos",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Gustavo",
+        "surname": "Caballero",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Portekiz",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Diogo",
+        "surname": "Costa",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Nuno",
+        "surname": "Mendes",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Tomás",
+        "surname": "Araújo",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rafael",
+        "surname": "Leão",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "João",
+        "surname": "Neves",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Francisco",
+        "surname": "Conceição",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Samu",
+        "surname": "Costa",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Cristiano",
+        "surname": "Ronaldo",
+        "goals": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Ramos",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Guedes",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Francisco",
+        "surname": "Trincão",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mory",
+        "surname": "Diaw",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Pathé",
+        "surname": "Ciss",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Krépin",
+        "surname": "Diatta",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismaila",
+        "surname": "Sarr",
+        "goals": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Habib",
+        "surname": "Diarra",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pape",
+        "surname": "Gueye",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Mbaye",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Iliman",
+        "surname": "Ndiaye",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Bamba",
+        "surname": "Dieng",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Jackson",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Sadio",
+        "surname": "Mané",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Suudi Arabistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Nawaf",
+        "surname": "Al Aqidi",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Saud",
+        "surname": "Abdulhamid",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Nawaf",
+        "surname": "Boushal",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nasser",
+        "surname": "Al-Dawsari",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Salem",
+        "surname": "Al-Dawsari",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Khalid",
+        "surname": "Al Ghannam",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alaa",
+        "surname": "Al Hejji",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Firas",
+        "surname": "Al-Buraikan",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdullah",
+        "surname": "Al-Hamdan",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Musab",
+        "surname": "Al Juwayr",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Saleh",
+        "surname": "Al-Shehri",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Tunus",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sabri",
+        "surname": "Ben Hassen",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Omar",
+        "surname": "Rekik",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Ali",
+        "surname": "Abdi",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elias",
+        "surname": "Achouri",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mortadha",
+        "surname": "Ben Ouanes",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anis",
+        "surname": "Ben Slimane",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismaël",
+        "surname": "Gharbi",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Hazem",
+        "surname": "Mastouri",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Khalil",
+        "surname": "Ayari",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Firas",
+        "surname": "Chaouat",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "Elloumi",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Altay",
+        "surname": "Bayındır",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Kaan",
+        "surname": "Ayhan",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Samet",
+        "surname": "Akaydın",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Barış",
+        "surname": "Alper Yılmaz",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Arda",
+        "surname": "Güler",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yunus",
+        "surname": "Akgün",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hakan",
+        "surname": "Çalhanoğlu",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Kerem",
+        "surname": "Aktürkoğlu",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Deniz",
+        "surname": "Gül",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "İrfan",
+        "surname": "Can Kahveci",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Orkun",
+        "surname": "Kökçü",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Santiago",
+        "surname": "Mele",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Ronald",
+        "surname": "Araújo",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Santiago",
+        "surname": "Bueno",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Maxi",
+        "surname": "Araújo",
+        "goals": 2
+      },
+      {
+        "position": "Orta saha",
+        "name": "Giorgian",
+        "surname": "de Arrascaeta",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodrigo",
+        "surname": "Bentancur",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolás",
+        "surname": "De La Cruz",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Agustín",
+        "surname": "Canobbio",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Rodrigo",
+        "surname": "Aguirre",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Darwin",
+        "surname": "Núñez",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Facundo",
+        "surname": "Pellistri",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Ürdün",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yazeed",
+        "surname": "Abulaila",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Husam",
+        "surname": "Abu Dahab",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Mohammad",
+        "surname": "Abu Hasheesh",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Olwan",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nizar",
+        "surname": "Al Rashdan",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rajaei",
+        "surname": "Ayed",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Azaizeh",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Musa",
+        "surname": "Al-Taamari",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohammad",
+        "surname": "Al-Dawud",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Odeh",
+        "surname": "Al-Fakhouri",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Sabra",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Yeni Zelanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Max",
+        "surname": "Crocombe",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Finn",
+        "surname": "Surman",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Tyler",
+        "surname": "Bindon",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elijah",
+        "surname": "Just",
+        "goals": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kosta",
+        "surname": "Barbarouses",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lachlan",
+        "surname": "Bayliss",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Joe",
+        "surname": "Bell",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Logan",
+        "surname": "Rogerson",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ben",
+        "surname": "Waine",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Chris",
+        "surname": "Wood",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Matt",
+        "surname": "Garbett",
+        "goals": 0
+      }
+    ]
+  },
+  {
+    "country": "Yeşil Burun",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "C.J.",
+        "surname": "dos Santos",
+        "goals": 0
+      },
+      {
+        "position": "Defans",
+        "name": "Sidny",
+        "surname": "Lopes Cabral",
+        "goals": 1
+      },
+      {
+        "position": "Defans",
+        "name": "Logan",
+        "surname": "Costa",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Deroy",
+        "surname": "Duarte",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kevin",
+        "surname": "Pina",
+        "goals": 1
+      },
+      {
+        "position": "Orta saha",
+        "name": "Telmo",
+        "surname": "Arcanjo",
+        "goals": 0
+      },
+      {
+        "position": "Orta saha",
+        "name": "Laros",
+        "surname": "Duarte",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Hélio",
+        "surname": "Varela",
+        "goals": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Gilson",
+        "surname": "Benchimol",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Jovane",
+        "surname": "Cabral",
+        "goals": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Nuno",
+        "surname": "da Costa",
+        "goals": 0
+      }
+    ]
+  }
+]

@@ -3,16 +3,16 @@
 import { ClubLogo } from "@/components/ClubLogo";
 import { CountryFlag } from "@/components/CountryFlag";
 import { WorldCupSquadCountryModal } from "@/components/WorldCupSquadCountryModal";
-import type { TallestSquadPlayer, WorldCupSquadCountryEntry } from "@/lib/types";
+import type { TallestSquadPlayer, WorldCupMostGoals, WorldCupMostPlayed, WorldCupMostValuable, WorldCupSquadCountryEntry } from "@/lib/types";
 import { useState } from "react";
 
 type SquadListEntry = WorldCupSquadCountryEntry | {
   id: number;
   country: string;
   players: TallestSquadPlayer[];
-};
+} | WorldCupMostPlayed | WorldCupMostGoals | WorldCupMostValuable;
 
-type PlayerStat = "age" | "height";
+type PlayerStat = "age" | "height" | "caps" | "goals" | "value_eur";
 
 type Props = {
   entries: SquadListEntry[];

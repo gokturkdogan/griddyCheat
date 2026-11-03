@@ -57,6 +57,54 @@ export type WorldCupShortest = {
   updated_at: string;
 };
 
+/** En çok maça çıkan · mostplayed */
+export type WorldCupMostPlayedPlayer = {
+  position: string;
+  caps: number;
+  name: string;
+  surname: string;
+};
+
+export type WorldCupMostPlayed = {
+  id: number;
+  country: string;
+  players: WorldCupMostPlayedPlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
+/** En çok gol atan · mostgoals */
+export type WorldCupMostGoalsPlayer = {
+  position: string;
+  goals: number;
+  name: string;
+  surname: string;
+};
+
+export type WorldCupMostGoals = {
+  id: number;
+  country: string;
+  players: WorldCupMostGoalsPlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
+/** En değerli · mostvaluable (Transfermarkt) */
+export type WorldCupMostValuablePlayer = {
+  position: string;
+  value_eur: number;
+  name: string;
+  surname: string;
+};
+
+export type WorldCupMostValuable = {
+  id: number;
+  country: string;
+  players: WorldCupMostValuablePlayer[];
+  created_at: string;
+  updated_at: string;
+};
+
 export type WorldCupSquadCountryEntry = {
   id: number;
   country: string;

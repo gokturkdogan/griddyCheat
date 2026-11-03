@@ -1,0 +1,4562 @@
+[
+  {
+    "country": "ABD",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Chris",
+        "surname": "Brady",
+        "age": 22
+      },
+      {
+        "position": "Kaleci",
+        "name": "Matt",
+        "surname": "Freese",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Alex",
+        "surname": "Freeman",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Joe",
+        "surname": "Scally",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Chris",
+        "surname": "Richards",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Mark",
+        "surname": "McKenzie",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Auston",
+        "surname": "Trusty",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gio",
+        "surname": "Reyna",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Malik",
+        "surname": "Tillman",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sebastian",
+        "surname": "Berhalter",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Max",
+        "surname": "Arfsten",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sergiño",
+        "surname": "Dest",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Ricardo",
+        "surname": "Pepi",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Folarin",
+        "surname": "Balogun",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Haji",
+        "surname": "Wright",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Almanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alexander",
+        "surname": "Nübel",
+        "age": 29
+      },
+      {
+        "position": "Kaleci",
+        "name": "Oliver",
+        "surname": "Baumann",
+        "age": 36
+      },
+      {
+        "position": "Defans",
+        "name": "Nathaniel",
+        "surname": "Brown",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Malick",
+        "surname": "Thiaw",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "Schlotterbeck",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Raum",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Waldemar",
+        "surname": "Anton",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lennart",
+        "surname": "Karl",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Assan",
+        "surname": "Ouédraogo",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aleksandar",
+        "surname": "Pavlovic",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Florian",
+        "surname": "Wirtz",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jamal",
+        "surname": "Musiala",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Maximilian",
+        "surname": "Beier",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Nick",
+        "surname": "Woltemade",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Jamie",
+        "surname": "Leweling",
+        "age": 25
+      }
+    ]
+  },
+  {
+    "country": "Arjantin",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Juan",
+        "surname": "Musso",
+        "age": 32
+      },
+      {
+        "position": "Kaleci",
+        "name": "Emiliano",
+        "surname": "Martínez",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Valentín",
+        "surname": "Barco",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Facundo",
+        "surname": "Medina",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Leonardo",
+        "surname": "Balerdi",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Exequiel",
+        "surname": "Palacios",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Cristian",
+        "surname": "Romero",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nico",
+        "surname": "Paz",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thiago",
+        "surname": "Almada",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Enzo",
+        "surname": "Fernández",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Flaco",
+        "surname": "López",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alexis",
+        "surname": "Mac Allister",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Giuliano",
+        "surname": "Simeone",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Julián",
+        "surname": "Álvarez",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Lautaro",
+        "surname": "Martínez",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Avustralya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Beach",
+        "age": 22
+      },
+      {
+        "position": "Kaleci",
+        "name": "Paul",
+        "surname": "Izzo",
+        "age": 31
+      },
+      {
+        "position": "Defans",
+        "name": "Lucas",
+        "surname": "Herrington",
+        "age": 18
+      },
+      {
+        "position": "Defans",
+        "name": "Alessandro",
+        "surname": "Circati",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Jordy",
+        "surname": "Bos",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Jacob",
+        "surname": "Italiano",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Kai",
+        "surname": "Trewin",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nestory",
+        "surname": "Irankunda",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Paul",
+        "surname": "Okon-Engstler",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Cristian",
+        "surname": "Volpato",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nishan",
+        "surname": "Velupillay",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Connor",
+        "surname": "Metcalfe",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Mo",
+        "surname": "Touré",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Tete",
+        "surname": "Yengi",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Awer",
+        "surname": "Mabil",
+        "age": 30
+      }
+    ]
+  },
+  {
+    "country": "Avusturya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Florian",
+        "surname": "Wiegele",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Pentz",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Alexander",
+        "surname": "Prass",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Affengruber",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Michael",
+        "surname": "Svoboda",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Kevin",
+        "surname": "Danso",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Marco",
+        "surname": "Friedl",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Paul",
+        "surname": "Wanner",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carney",
+        "surname": "Chukwuemeka",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Wimmer",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolas",
+        "surname": "Seiwald",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Romano",
+        "surname": "Schmid",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Christoph",
+        "surname": "Baumgartner",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Saša",
+        "surname": "Kalajdžić",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Michael",
+        "surname": "Gregoritsch",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "country": "Belçika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mike",
+        "surname": "Penders",
+        "age": 20
+      },
+      {
+        "position": "Kaleci",
+        "name": "Senne",
+        "surname": "Lammens",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Joaquin",
+        "surname": "Seys",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Zeno",
+        "surname": "Debast",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Nathan",
+        "surname": "Ngoy",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Koni",
+        "surname": "De Winter",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Maxim",
+        "surname": "De Cuyper",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matias",
+        "surname": "Fernandez-Pardo",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Diego",
+        "surname": "Moreira",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jeremy",
+        "surname": "Doku",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amadou",
+        "surname": "Onana",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Charles",
+        "surname": "De Ketelaere",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Leandro",
+        "surname": "Trossard",
+        "age": 31
+      },
+      {
+        "position": "Forvet",
+        "name": "Romelu",
+        "surname": "Lukaku",
+        "age": 33
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Raskin",
+        "age": 25
+      }
+    ]
+  },
+  {
+    "country": "Bosna Hersek",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mladen",
+        "surname": "Jurkas",
+        "age": 18
+      },
+      {
+        "position": "Kaleci",
+        "name": "Martin",
+        "surname": "Zlomislić",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Nidal",
+        "surname": "Čelik",
+        "age": 19
+      },
+      {
+        "position": "Defans",
+        "name": "Arjan",
+        "surname": "Malic",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Tarik",
+        "surname": "Muharemovic",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Amar",
+        "surname": "Dedić",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Dennis",
+        "surname": "Hadžikadunić",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kerim",
+        "surname": "Alajbegović",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ermin",
+        "surname": "Mahmić",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Esmir",
+        "surname": "Bajraktarevic",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Benjamin",
+        "surname": "Tahirovic",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ivan",
+        "surname": "Bašić",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Samed",
+        "surname": "Baždar",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Jovo",
+        "surname": "Lukić",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Ermedin",
+        "surname": "Demirović",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Brezilya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ederson",
+        "surname": "Moraes",
+        "age": 32
+      },
+      {
+        "position": "Kaleci",
+        "name": "Alisson",
+        "surname": "",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Wesley",
+        "surname": "",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Roger",
+        "surname": "Ibanez",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Magalhães",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Gleison",
+        "surname": "Bremer",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Léo",
+        "surname": "Pereira",
+        "age": 30
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rayan",
+        "surname": "",
+        "age": 19
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gabriel",
+        "surname": "Martinelli",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Danilo",
+        "surname": "Santos",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luiz",
+        "surname": "Henrique",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Éderson",
+        "surname": "Silva",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Endrick",
+        "surname": "",
+        "age": 19
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Thiago",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Vinicius",
+        "surname": "Júnior",
+        "age": 25
+      }
+    ]
+  },
+  {
+    "country": "Cezayir",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Melvin",
+        "surname": "Mastil",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Luca",
+        "surname": "Zidane",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Jaouen",
+        "surname": "Hadjam",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Rafik",
+        "surname": "Belghali",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Rayan",
+        "surname": "Aït-Nouri",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Amine Tougai",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Achref",
+        "surname": "Abada",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Maza",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yassine",
+        "surname": "Titraoui",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fares",
+        "surname": "Chaïbi",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Farés",
+        "surname": "Ghedjemis",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anis",
+        "surname": "Hadj Moussa",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Adil",
+        "surname": "Boulbina",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Amoura",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Nadhir",
+        "surname": "Benbouali",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Tyrick",
+        "surname": "Bodak",
+        "age": 24
+      },
+      {
+        "position": "Kaleci",
+        "name": "Trevor",
+        "surname": "Doornbusch",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Ar'jany",
+        "surname": "Martha",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Deveron",
+        "surname": "Fonville",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Shurandy",
+        "surname": "Sambo",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Armando",
+        "surname": "Obispo",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Sherel",
+        "surname": "Floranus",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Livano",
+        "surname": "Comenencia",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tyrese",
+        "surname": "Noslin",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jeremy",
+        "surname": "Antonisse",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jearl",
+        "surname": "Margaritha",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tahith",
+        "surname": "Chong",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Sontje",
+        "surname": "Hansen",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Gervane",
+        "surname": "Kastaneer",
+        "age": 30
+      },
+      {
+        "position": "Forvet",
+        "name": "Kenji",
+        "surname": "Gorré",
+        "age": 31
+      }
+    ]
+  },
+  {
+    "country": "Çekya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lukáš",
+        "surname": "Horníček",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Matej",
+        "surname": "Kovar",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Alexandr",
+        "surname": "Sojka",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Štěpán",
+        "surname": "Chaloupek",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Zima",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Jurásek",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Robin",
+        "surname": "Hranáč",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hugo",
+        "surname": "Sochůrek",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lukáš",
+        "surname": "Červ",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Michal",
+        "surname": "Sadílek",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "David",
+        "surname": "Douděra",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tomáš",
+        "surname": "Souček",
+        "age": 31
+      },
+      {
+        "position": "Forvet",
+        "name": "Denis",
+        "surname": "Višinský",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Adam",
+        "surname": "Hložek",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Pavel",
+        "surname": "Šulc",
+        "age": 25
+      }
+    ]
+  },
+  {
+    "country": "Ekvador",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Moisés",
+        "surname": "Ramírez",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Gonzalo",
+        "surname": "Valle",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Yaimar",
+        "surname": "Medina",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Joel",
+        "surname": "Ordóñez",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Piero",
+        "surname": "Hincapié",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Willian",
+        "surname": "Pacho",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Jackson",
+        "surname": "Porozo",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kendry",
+        "surname": "Páez",
+        "age": 19
+      },
+      {
+        "position": "Orta saha",
+        "name": "Denil",
+        "surname": "Castillo",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anthony",
+        "surname": "Valencia",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nilson",
+        "surname": "Angulo",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alan",
+        "surname": "Minda",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Jeremy",
+        "surname": "Arévalo",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonzalo",
+        "surname": "Plata",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "Rodríguez",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Fas",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ahmed",
+        "surname": "Reda Tagnaouti",
+        "age": 30
+      },
+      {
+        "position": "Kaleci",
+        "name": "Yassine",
+        "surname": "Bounou",
+        "age": 35
+      },
+      {
+        "position": "Defans",
+        "name": "Chadi",
+        "surname": "Riad",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Redouane",
+        "surname": "Halhal",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Anass",
+        "surname": "Salah-Eddine",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Zakaria",
+        "surname": "El Ouahdi",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Achraf",
+        "surname": "Hakimi",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ayyoub",
+        "surname": "Bouaddi",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gessime",
+        "surname": "Yassine",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Samir",
+        "surname": "El Mourabet",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Chemsdine",
+        "surname": "Talbi",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ayoube",
+        "surname": "Amaimouni",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Bilal",
+        "surname": "El Khannouss",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Abde",
+        "surname": "Ezzalzouli",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismael",
+        "surname": "Saibari",
+        "age": 25
+      }
+    ]
+  },
+  {
+    "country": "Fildişi Sahili",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mohamed",
+        "surname": "Koné",
+        "age": 24
+      },
+      {
+        "position": "Kaleci",
+        "name": "Yahia",
+        "surname": "Fofana",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Ousmane",
+        "surname": "Diomande",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Guéla",
+        "surname": "Doué",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Clément",
+        "surname": "Akpa",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Odilon",
+        "surname": "Kossounou",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Wilfried",
+        "surname": "Singo",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yan",
+        "surname": "Diomandé",
+        "age": 19
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christ",
+        "surname": "Inao Oulaï",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bazoumana",
+        "surname": "Touré",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amad",
+        "surname": "Diallo",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Simon",
+        "surname": "Adingra",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Oumar",
+        "surname": "Diakité",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Ange-Yoan",
+        "surname": "Bonny",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Elye",
+        "surname": "Wahi",
+        "age": 23
+      }
+    ]
+  },
+  {
+    "country": "Fransa",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Robin",
+        "surname": "Risser",
+        "age": 21
+      },
+      {
+        "position": "Kaleci",
+        "name": "Mike",
+        "surname": "Maignan",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Malo",
+        "surname": "Gusto",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "William",
+        "surname": "Saliba",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Maxence",
+        "surname": "Lacroix",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Ibrahima",
+        "surname": "Konaté",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Jules",
+        "surname": "Koundé",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Warren",
+        "surname": "Zaïre-Emery",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Désiré",
+        "surname": "Doué",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rayan",
+        "surname": "Cherki",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bradley",
+        "surname": "Barcola",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Maghnes",
+        "surname": "Akliouche",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Kylian",
+        "surname": "Mbappé",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Marcus",
+        "surname": "Thuram",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Jean-Philippe",
+        "surname": "Mateta",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Gana",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Joseph",
+        "surname": "Anang",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Lawrence",
+        "surname": "Ati-Zigi",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Kojo",
+        "surname": "Peprah Oppong",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Jonas",
+        "surname": "Adjetey",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Marvin",
+        "surname": "Senaya",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Alidu",
+        "surname": "Seidu",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Jerome",
+        "surname": "Opoku",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Caleb",
+        "surname": "Yirenkyi",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christopher",
+        "surname": "Bonsu Baah",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abdul",
+        "surname": "Fatawu Issahaku",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ernest",
+        "surname": "Nuamah",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kamaldeen",
+        "surname": "Sulemana",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Prince",
+        "surname": "Kwabena Adu",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Augustine",
+        "surname": "Boakye",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Antoine",
+        "surname": "Semenyo",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Güney Afrika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sipho",
+        "surname": "Chaine",
+        "age": 29
+      },
+      {
+        "position": "Kaleci",
+        "name": "Ricardo",
+        "surname": "Goss",
+        "age": 32
+      },
+      {
+        "position": "Defans",
+        "name": "Mbekezeli",
+        "surname": "Mbokazi",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Olwethu",
+        "surname": "Makhanya",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Samukele",
+        "surname": "Kabini",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Ime",
+        "surname": "Okon",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Khulumani",
+        "surname": "Ndamane",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Relebohile",
+        "surname": "Mofokeng",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thapelo",
+        "surname": "Maseko",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kamogelo",
+        "surname": "Sebelebele",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Oswin",
+        "surname": "Appollis",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jayden",
+        "surname": "Adams",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Lyle",
+        "surname": "Foster",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Evidence",
+        "surname": "Makgopa",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Iqraam",
+        "surname": "Rayners",
+        "age": 30
+      }
+    ]
+  },
+  {
+    "country": "Güney Kore",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Song",
+        "surname": "Bum-keun",
+        "age": 28
+      },
+      {
+        "position": "Kaleci",
+        "name": "Jo",
+        "surname": "Hyeon-woo",
+        "age": 34
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Han-beom",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Cho",
+        "surname": "Wi-je",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Kim",
+        "surname": "Tae-hyeon",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Gi-hyuk",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Cho",
+        "surname": "Yu-min",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bae",
+        "surname": "Jun-ho",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jens",
+        "surname": "Castrop",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lee",
+        "surname": "Tae-seok",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yang",
+        "surname": "Hyun-jun",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Eom",
+        "surname": "Ji-sung",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Oh",
+        "surname": "Hyeon-gyu",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Lee",
+        "surname": "Kang-in",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Cho",
+        "surname": "Gue-sung",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alexandre",
+        "surname": "Pierre",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Josué",
+        "surname": "Duverger",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Keeto",
+        "surname": "Thermoncy",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Wilguens",
+        "surname": "Paugain",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Garven",
+        "surname": "Metusala",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Martin",
+        "surname": "Expérience",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Hannes",
+        "surname": "Delcroix",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Woodensky",
+        "surname": "Pierre",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carl",
+        "surname": "Fred Sainté",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Josué",
+        "surname": "Casimir",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ruben",
+        "surname": "Providence",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Louicius",
+        "surname": "Deedson",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Lenny",
+        "surname": "Joseph",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Wilson",
+        "surname": "Isidor",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Yassin",
+        "surname": "Fortuné",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "country": "Hırvatistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ivor",
+        "surname": "Pandur",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Dominik",
+        "surname": "Kotarski",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Luka",
+        "surname": "Vušković",
+        "age": 19
+      },
+      {
+        "position": "Defans",
+        "name": "Joško",
+        "surname": "Gvardiol",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Josip",
+        "surname": "Stanišić",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Josip",
+        "surname": "Šutalo",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Martin",
+        "surname": "Erlić",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Petar",
+        "surname": "Sučić",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luka",
+        "surname": "Sučić",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Toni",
+        "surname": "Fruk",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marco",
+        "surname": "Pašalić",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nikola",
+        "surname": "Moro",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Matanović",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Petar",
+        "surname": "Musa",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Ante",
+        "surname": "Budimir",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "country": "Hollanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Robin",
+        "surname": "Roefs",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Bart",
+        "surname": "Verbruggen",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Jorrel",
+        "surname": "Hato",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Jurriën",
+        "surname": "Timber",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Micky",
+        "surname": "van de Ven",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Lutsharel",
+        "surname": "Geertruida",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Jan",
+        "surname": "Paul van Hecke",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Gravenberch",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Quinten",
+        "surname": "Timber",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mats",
+        "surname": "Wieffer",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Noa",
+        "surname": "Lang",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Justin",
+        "surname": "Kluivert",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Brian",
+        "surname": "Brobbey",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Crysencio",
+        "surname": "Summerville",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Cody",
+        "surname": "Gakpo",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "country": "Irak",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ahmed",
+        "surname": "Basil",
+        "age": 29
+      },
+      {
+        "position": "Kaleci",
+        "name": "Fahad",
+        "surname": "Talib",
+        "age": 31
+      },
+      {
+        "position": "Defans",
+        "name": "Hussein",
+        "surname": "Ali",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Ahmed",
+        "surname": "Maknzi",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Mustafa",
+        "surname": "Saadoon",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Zaid",
+        "surname": "Tahseen",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Merchas",
+        "surname": "Doski",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marko",
+        "surname": "Farji",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Jasim",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Youssef",
+        "surname": "Amyn",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ahmed",
+        "surname": "Qasem",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Zidane",
+        "surname": "Iqbal",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Al Hamadi",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohanad",
+        "surname": "Ali",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Bayesh",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "İngiltere",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "James",
+        "surname": "Trafford",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Dean",
+        "surname": "Henderson",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "O'Reilly",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Jarell",
+        "surname": "Quansah",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Tino",
+        "surname": "Livramento",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Djed",
+        "surname": "Spence",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Guéhi",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kobbie",
+        "surname": "Mainoo",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jude",
+        "surname": "Bellingham",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elliot",
+        "surname": "Anderson",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Morgan",
+        "surname": "Rogers",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Noni",
+        "surname": "Madueke",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Ivan",
+        "surname": "Toney",
+        "age": 30
+      },
+      {
+        "position": "Forvet",
+        "name": "Ollie",
+        "surname": "Watkins",
+        "age": 30
+      },
+      {
+        "position": "Forvet",
+        "name": "Harry",
+        "surname": "Kane",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "country": "İran",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Payam",
+        "surname": "Niazmand",
+        "age": 31
+      },
+      {
+        "position": "Kaleci",
+        "name": "Alireza",
+        "surname": "Beiranvand",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Danial",
+        "surname": "Eiri",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Saleh",
+        "surname": "Hardani",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Ali",
+        "surname": "Nemati",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Hossein",
+        "surname": "Kanaanizadegan",
+        "age": 32
+      },
+      {
+        "position": "Defans",
+        "name": "Milad",
+        "surname": "Mohammadi",
+        "age": 32
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amirmohammad",
+        "surname": "Razzaghinia",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aria",
+        "surname": "Yousefi",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Ghorbani",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Mohebi",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saeid",
+        "surname": "Ezatolahi",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Amirhossein",
+        "surname": "Hosseinzadeh",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Mehdi",
+        "surname": "Ghayedi",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Dennis",
+        "surname": "Eckert",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "İskoçya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Liam",
+        "surname": "Kelly",
+        "age": 30
+      },
+      {
+        "position": "Kaleci",
+        "name": "Angus",
+        "surname": "Gunn",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Aaron",
+        "surname": "Hickey",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Nathan",
+        "surname": "Patterson",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Anthony",
+        "surname": "Ralston",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Scott",
+        "surname": "McKenna",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "John",
+        "surname": "Souttar",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tyler",
+        "surname": "Fletcher",
+        "age": 19
+      },
+      {
+        "position": "Orta saha",
+        "name": "Findlay",
+        "surname": "Curtis",
+        "age": 19
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ben",
+        "surname": "Gannon-Doak",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Billy",
+        "surname": "Gilmour",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lewis",
+        "surname": "Ferguson",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "George",
+        "surname": "Hirst",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Ché",
+        "surname": "Adams",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Ross",
+        "surname": "Stewart",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "İspanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Joan",
+        "surname": "García",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Unai",
+        "surname": "Simón",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Pau",
+        "surname": "Cubarsí",
+        "age": 19
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Pubill",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Eric",
+        "surname": "García",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Pedro",
+        "surname": "Porro",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Cucurella",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lamine",
+        "surname": "Yamal",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Víctor",
+        "surname": "Muñoz",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedri",
+        "surname": "",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yéremy",
+        "surname": "Pino",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nico",
+        "surname": "Williams",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Gavi",
+        "surname": "",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Baena",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Ferran",
+        "surname": "Torres",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "İsveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Viktor",
+        "surname": "Johansson",
+        "age": 27
+      },
+      {
+        "position": "Kaleci",
+        "name": "Jacob",
+        "surname": "Widell Zetterström",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Svensson",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Emil",
+        "surname": "Holm",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Gustaf",
+        "surname": "Lagerbielke",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Gudmundsson",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Isak",
+        "surname": "Hien",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lucas",
+        "surname": "Bergvall",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yasin",
+        "surname": "Ayari",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Besfort",
+        "surname": "Zeneli",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elliot",
+        "surname": "Stroud",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anthony",
+        "surname": "Elanga",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Alexander",
+        "surname": "Isak",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Taha",
+        "surname": "Ali",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Viktor",
+        "surname": "Gyökeres",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "İsviçre",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Marvin",
+        "surname": "Keller",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Gregor",
+        "surname": "Kobel",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Aurèle",
+        "surname": "Amenda",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Luca",
+        "surname": "Jaquez",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Miro",
+        "surname": "Muheim",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Eray",
+        "surname": "Cömert",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Denis",
+        "surname": "Zakaria",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Johan",
+        "surname": "Manzambi",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ardon",
+        "surname": "Jashari",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fabian",
+        "surname": "Rieder",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Zeki",
+        "surname": "Amdouni",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dan",
+        "surname": "Ndoye",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Noah",
+        "surname": "Okafor",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Breel",
+        "surname": "Embolo",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Michel",
+        "surname": "Aebischer",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "Japonya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Zion",
+        "surname": "Suzuki",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Keisuke",
+        "surname": "Ōsako",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Junnosuke",
+        "surname": "Suzuki",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Ayumu",
+        "surname": "Seko",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Hiroki",
+        "surname": "Ito",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Takehiro",
+        "surname": "Tomiyasu",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Tsuyoshi",
+        "surname": "Watanabe",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yuito",
+        "surname": "Suzuki",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Takefusa",
+        "surname": "Kubo",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kaishū",
+        "surname": "Sano",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Keito",
+        "surname": "Nakamura",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yukinari",
+        "surname": "Sugawara",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Keisuke",
+        "surname": "Gotō",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Kento",
+        "surname": "Shiogai",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Shuto",
+        "surname": "Machino",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Kanada",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Owen",
+        "surname": "Goodman",
+        "age": 22
+      },
+      {
+        "position": "Kaleci",
+        "name": "Dayne",
+        "surname": "St. Clair",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Luc",
+        "surname": "De Fougerolles",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Alphonso",
+        "surname": "Davies",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Moïse",
+        "surname": "Bombito",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Alistair",
+        "surname": "Johnston",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Derek",
+        "surname": "Cornelius",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nathan",
+        "surname": "Saliba",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marcelo",
+        "surname": "Flores",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Niko",
+        "surname": "Sigur",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jayden",
+        "surname": "Nelson",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismaël",
+        "surname": "Koné",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Promise",
+        "surname": "David",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Tani",
+        "surname": "Oluwaseyi",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Jonathan",
+        "surname": "David",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Katar",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mahmoud",
+        "surname": "Abunada",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Salah",
+        "surname": "Zakaria",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Ayoub",
+        "surname": "Al-Oui",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Manai",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Homam",
+        "surname": "Ahmed",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Issa",
+        "surname": "Laye",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Sultan",
+        "surname": "Al-Brake",
+        "age": 30
+      },
+      {
+        "position": "Orta saha",
+        "name": "Al-Hashmi",
+        "surname": "Al-Hussain",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jassem",
+        "surname": "Gaber",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akram",
+        "surname": "Afif",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Assim",
+        "surname": "Madibo",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Edmilson",
+        "surname": "Junior",
+        "age": 31
+      },
+      {
+        "position": "Forvet",
+        "name": "Tahsin",
+        "surname": "Jamshid",
+        "age": 19
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Al-Ganehi",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Yusuf",
+        "surname": "Abdurisag",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Kolombiya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Álvaro",
+        "surname": "David Montero",
+        "age": 31
+      },
+      {
+        "position": "Kaleci",
+        "name": "Camilo",
+        "surname": "Vargas",
+        "age": 37
+      },
+      {
+        "position": "Defans",
+        "name": "Jhon",
+        "surname": "Lucumí",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Willer",
+        "surname": "Ditta",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Davinson",
+        "surname": "Sánchez",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Muñoz",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Yerry",
+        "surname": "Mina",
+        "age": 31
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gustavo",
+        "surname": "Puerta",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Andrés",
+        "surname": "Gómez",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kevin",
+        "surname": "Castaño",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Richard",
+        "surname": "Ríos",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jaminton",
+        "surname": "Campaz",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Cucho",
+        "surname": "",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Jorge",
+        "surname": "Carrascal",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Luis",
+        "surname": "Suárez",
+        "age": 28
+      }
+    ]
+  },
+  {
+    "country": "Kongo DC",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Matthieu",
+        "surname": "Epolo",
+        "age": 21
+      },
+      {
+        "position": "Kaleci",
+        "name": "Timothy",
+        "surname": "Fayulu",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Rocky",
+        "surname": "Bushiri",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Steve",
+        "surname": "Kapuadi",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Aaron",
+        "surname": "Wan-Bissaka",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Axel",
+        "surname": "Tuanzebe",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Gédéon",
+        "surname": "Kalulu",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Noah",
+        "surname": "Sadiki",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ngal'Ayel",
+        "surname": "Mukau",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nathanaël",
+        "surname": "Mbuku",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Edo",
+        "surname": "Kayembe",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Cipenga",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Meschak",
+        "surname": "Elia",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Yoane",
+        "surname": "Wissa",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Simon",
+        "surname": "Banza",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "Meksika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Raúl",
+        "surname": "Rangel",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Carlos",
+        "surname": "Acevedo",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Mateo",
+        "surname": "Chávez",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Israel",
+        "surname": "Reyes",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Johan",
+        "surname": "Vásquez",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Jorge",
+        "surname": "Sánchez",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Edson",
+        "surname": "Álvarez",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gilberto",
+        "surname": "Mora",
+        "age": 17
+      },
+      {
+        "position": "Orta saha",
+        "name": "Obed",
+        "surname": "Vargas",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Gutiérrez",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "César",
+        "surname": "Huerta",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Erik",
+        "surname": "Lira",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Armando",
+        "surname": "González",
+        "age": 23
+      },
+      {
+        "position": "Forvet",
+        "name": "Santiago",
+        "surname": "Giménez",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Roberto",
+        "surname": "Alvarado",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "country": "Mısır",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mostafa",
+        "surname": "Shobeir",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Mohamed",
+        "surname": "Alaa",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Tarek",
+        "surname": "Alaa",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Hossam",
+        "surname": "Abdelmaguid",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Abdelmonem",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Ahmed",
+        "surname": "Fatouh",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Karim",
+        "surname": "Hafez",
+        "age": 30
+      },
+      {
+        "position": "Orta saha",
+        "name": "Haissem",
+        "surname": "Hassan",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mahmoud",
+        "surname": "Saber",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Adel",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Omar",
+        "surname": "Marmoush",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marwan",
+        "surname": "Attia",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Hamza",
+        "surname": "Abdelkarim",
+        "age": 18
+      },
+      {
+        "position": "Forvet",
+        "name": "Mostafa",
+        "surname": "Ziko",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Salah",
+        "age": 33
+      }
+    ]
+  },
+  {
+    "country": "Norveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sander",
+        "surname": "Tangvik",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Egil",
+        "surname": "Selvik",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Henrik",
+        "surname": "Falchener",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Møller Wolfe",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Sondre",
+        "surname": "Langås",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Marcus",
+        "surname": "Pedersen",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Leo",
+        "surname": "Østigård",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thelo",
+        "surname": "Aasgaard",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kristian",
+        "surname": "Thorstvedt",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martin",
+        "surname": "Ødegaard",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sander",
+        "surname": "Berge",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Berg",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Antonio",
+        "surname": "Nusa",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Andreas",
+        "surname": "Schjelderup",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Oscar",
+        "surname": "Bobb",
+        "age": 22
+      }
+    ]
+  },
+  {
+    "country": "Özbekistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Abduvohid",
+        "surname": "Nematov",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Botirali",
+        "surname": "Ergashev",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Bekhruz",
+        "surname": "Karimov",
+        "age": 18
+      },
+      {
+        "position": "Defans",
+        "name": "Abdukodir",
+        "surname": "Khusanov",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Jakhongir",
+        "surname": "Urozov",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Avazbek",
+        "surname": "Ulmasaliev",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Sherzod",
+        "surname": "Nasrullaev",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abbosbek",
+        "surname": "Fayzullayev",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sherzod",
+        "surname": "Esanov",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Oston",
+        "surname": "Urunov",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akmal",
+        "surname": "Mozgovoy",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aziz",
+        "surname": "Ganiev",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Ruslanbek",
+        "surname": "Jiyanov",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Azizbek",
+        "surname": "Amonov",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Eldor",
+        "surname": "Shomurodov",
+        "age": 30
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Mosquera",
+        "age": 31
+      },
+      {
+        "position": "Kaleci",
+        "name": "César",
+        "surname": "Samudio",
+        "age": 32
+      },
+      {
+        "position": "Defans",
+        "name": "Edgardo",
+        "surname": "Fariña",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "José",
+        "surname": "Córdoba",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Andrés",
+        "surname": "Andrade Cedeño",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Jorge",
+        "surname": "Gutiérrez",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "César",
+        "surname": "Blackman",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Azarías",
+        "surname": "Londoño",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carlos",
+        "surname": "Harvey",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adalberto",
+        "surname": "Carrasquilla",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "José",
+        "surname": "Luis Rodríguez",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismael",
+        "surname": "Díaz",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "Tomás",
+        "surname": "Rodríguez",
+        "age": 27
+      },
+      {
+        "position": "Forvet",
+        "name": "Cristian",
+        "surname": "Martínez",
+        "age": 29
+      },
+      {
+        "position": "Forvet",
+        "name": "José",
+        "surname": "Fajardo",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Gill",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Gastón",
+        "surname": "Olveira",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Alexandro",
+        "surname": "Maidana",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "Juan",
+        "surname": "Cáceres",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Omar",
+        "surname": "Alderete",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "José",
+        "surname": "Canale",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Gustavo",
+        "surname": "Gómez",
+        "age": 33
+      },
+      {
+        "position": "Orta saha",
+        "name": "Diego",
+        "surname": "Gómez",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matías",
+        "surname": "Galarza",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gustavo",
+        "surname": "Caballero",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Damián",
+        "surname": "Bobadilla",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mauricio",
+        "surname": "",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Julio",
+        "surname": "Enciso",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Ramón",
+        "surname": "Sosa",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Isidro",
+        "surname": "Pitta",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Portekiz",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Diogo",
+        "surname": "Costa",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Rui",
+        "surname": "Silva",
+        "age": 32
+      },
+      {
+        "position": "Defans",
+        "name": "Renato",
+        "surname": "Veiga",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Nuno",
+        "surname": "Mendes",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Tomás",
+        "surname": "Araújo",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Gonçalo",
+        "surname": "Inácio",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Diogo",
+        "surname": "Dalot",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "João",
+        "surname": "Neves",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Francisco",
+        "surname": "Conceição",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Samu",
+        "surname": "Costa",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedro",
+        "surname": "Neto",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Vitinha",
+        "surname": "",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Ramos",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Francisco",
+        "surname": "Trincão",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Guedes",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yehvann",
+        "surname": "Diouf",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Mory",
+        "surname": "Diaw",
+        "age": 32
+      },
+      {
+        "position": "Defans",
+        "name": "Mamadou",
+        "surname": "Sarr",
+        "age": 20
+      },
+      {
+        "position": "Defans",
+        "name": "El",
+        "surname": "Hadji Malick Diouf",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Antoine",
+        "surname": "Mendy",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Ismail",
+        "surname": "Jakobs",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Krépin",
+        "surname": "Diatta",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Mbaye",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bara",
+        "surname": "Sapoko Ndiaye",
+        "age": 18
+      },
+      {
+        "position": "Orta saha",
+        "name": "Assane",
+        "surname": "Diao",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Habib",
+        "surname": "Diarra",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lamine",
+        "surname": "Camara",
+        "age": 22
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Jackson",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Bamba",
+        "surname": "Dieng",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Iliman",
+        "surname": "Ndiaye",
+        "age": 26
+      }
+    ]
+  },
+  {
+    "country": "Suudi Arabistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Nawaf",
+        "surname": "Al Aqidi",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Mohammed",
+        "surname": "Al-Owais",
+        "age": 34
+      },
+      {
+        "position": "Defans",
+        "name": "Jehad",
+        "surname": "Thakri",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Moteb",
+        "surname": "Al-Harbi",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Ali",
+        "surname": "Majrashi",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Nawaf",
+        "surname": "Boushal",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Saud",
+        "surname": "Abdulhamid",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Musab",
+        "surname": "Al Juwayr",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammed",
+        "surname": "Abu Al-Shamat",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ziyad",
+        "surname": "Al Johani",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ayman",
+        "surname": "Yahya",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Khalid",
+        "surname": "Al Ghannam",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Firas",
+        "surname": "Al-Buraikan",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdullah",
+        "surname": "Al-Hamdan",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Saleh",
+        "surname": "Al-Shehri",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "country": "Tunus",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mouhib",
+        "surname": "Chamakh",
+        "age": 24
+      },
+      {
+        "position": "Kaleci",
+        "name": "Aymen",
+        "surname": "Dahmen",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Moutaz",
+        "surname": "Neffati",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Adem",
+        "surname": "Arous",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Raed",
+        "surname": "Chikhaoui",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Omar",
+        "surname": "Rekik",
+        "age": 24
+      },
+      {
+        "position": "Defans",
+        "name": "Yan",
+        "surname": "Valery",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismaël",
+        "surname": "Gharbi",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hannibal",
+        "surname": "Mejbri",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anis",
+        "surname": "Ben Slimane",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hadj",
+        "surname": "Mahmoud",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elias",
+        "surname": "Saad",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "Elloumi",
+        "age": 18
+      },
+      {
+        "position": "Forvet",
+        "name": "Khalil",
+        "surname": "Ayari",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Sebastian",
+        "surname": "Tounekti",
+        "age": 23
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Altay",
+        "surname": "Bayındır",
+        "age": 28
+      },
+      {
+        "position": "Kaleci",
+        "name": "Uğurcan",
+        "surname": "Çakır",
+        "age": 30
+      },
+      {
+        "position": "Defans",
+        "name": "Oğuz",
+        "surname": "Aydın",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Eren",
+        "surname": "Elmalı",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Ozan",
+        "surname": "Kabak",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Ferdi",
+        "surname": "Kadioglu",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Mert",
+        "surname": "Müldür",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Can",
+        "surname": "Uzun",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kenan",
+        "surname": "Yıldız",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Arda",
+        "surname": "Güler",
+        "age": 21
+      },
+      {
+        "position": "Orta saha",
+        "name": "Orkun",
+        "surname": "Kökçü",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yunus",
+        "surname": "Akgün",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Deniz",
+        "surname": "Gül",
+        "age": 21
+      },
+      {
+        "position": "Forvet",
+        "name": "Barış",
+        "surname": "Alper Yılmaz",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Kerem",
+        "surname": "Aktürkoğlu",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Santiago",
+        "surname": "Mele",
+        "age": 28
+      },
+      {
+        "position": "Kaleci",
+        "name": "Sergio",
+        "surname": "Rochet",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Juan",
+        "surname": "Manuel Sanabria",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Sebastián",
+        "surname": "Cáceres",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Ronald",
+        "surname": "Araújo",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Santiago",
+        "surname": "Bueno",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Joaquín",
+        "surname": "Piquerez",
+        "age": 27
+      },
+      {
+        "position": "Orta saha",
+        "name": "Facundo",
+        "surname": "Pellistri",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Manuel",
+        "surname": "Ugarte",
+        "age": 25
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Rodríguez",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Maxi",
+        "surname": "Araújo",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Emiliano",
+        "surname": "Martínez",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Rodrigo",
+        "surname": "Zalazar",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Darwin",
+        "surname": "Núñez",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Agustín",
+        "surname": "Canobbio",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "country": "Ürdün",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Abdallah",
+        "surname": "Al-Fakhouri",
+        "age": 26
+      },
+      {
+        "position": "Kaleci",
+        "name": "Nour",
+        "surname": "Bani Attiah",
+        "age": 33
+      },
+      {
+        "position": "Defans",
+        "name": "Mohannad",
+        "surname": "Abu Taha",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Mo",
+        "surname": "Abualnadi",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Husam",
+        "surname": "Abu Dahab",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "Anas",
+        "surname": "Badawi",
+        "age": 28
+      },
+      {
+        "position": "Defans",
+        "name": "Saed",
+        "surname": "Al-Rosan",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Odeh",
+        "surname": "Al-Fakhouri",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Taha",
+        "age": 20
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Azaizeh",
+        "age": 22
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amer",
+        "surname": "Jamous",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Sadeh",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Sabra",
+        "age": 20
+      },
+      {
+        "position": "Forvet",
+        "name": "Sharara",
+        "surname": "",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Musa",
+        "surname": "Al-Taamari",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "country": "Yeni Zelanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alex",
+        "surname": "Paulsen",
+        "age": 23
+      },
+      {
+        "position": "Kaleci",
+        "name": "Michael",
+        "surname": "Woud",
+        "age": 27
+      },
+      {
+        "position": "Defans",
+        "name": "Tyler",
+        "surname": "Bindon",
+        "age": 21
+      },
+      {
+        "position": "Defans",
+        "name": "Finn",
+        "surname": "Surman",
+        "age": 22
+      },
+      {
+        "position": "Defans",
+        "name": "Ben",
+        "surname": "Old",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Liberato",
+        "surname": "Cacace",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Callan",
+        "surname": "Elliot",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jesse",
+        "surname": "Randall",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lachlan",
+        "surname": "Bayliss",
+        "age": 23
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matt",
+        "surname": "Garbett",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marko",
+        "surname": "Stamenic",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elijah",
+        "surname": "Just",
+        "age": 26
+      },
+      {
+        "position": "Forvet",
+        "name": "Ben",
+        "surname": "Waine",
+        "age": 25
+      },
+      {
+        "position": "Forvet",
+        "name": "Logan",
+        "surname": "Rogerson",
+        "age": 28
+      },
+      {
+        "position": "Forvet",
+        "name": "Chris",
+        "surname": "Wood",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "country": "Yeşil Burun",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "C.J.",
+        "surname": "dos Santos",
+        "age": 25
+      },
+      {
+        "position": "Kaleci",
+        "name": "Márcio",
+        "surname": "Rosa",
+        "age": 29
+      },
+      {
+        "position": "Defans",
+        "name": "Wagner",
+        "surname": "Pina",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Sidny",
+        "surname": "Lopes Cabral",
+        "age": 23
+      },
+      {
+        "position": "Defans",
+        "name": "Logan",
+        "surname": "Costa",
+        "age": 25
+      },
+      {
+        "position": "Defans",
+        "name": "Kelvin",
+        "surname": "Pires",
+        "age": 26
+      },
+      {
+        "position": "Defans",
+        "name": "João",
+        "surname": "Paulo Fernandes",
+        "age": 28
+      },
+      {
+        "position": "Orta saha",
+        "name": "Telmo",
+        "surname": "Arcanjo",
+        "age": 24
+      },
+      {
+        "position": "Orta saha",
+        "name": "Deroy",
+        "surname": "Duarte",
+        "age": 26
+      },
+      {
+        "position": "Orta saha",
+        "name": "Laros",
+        "surname": "Duarte",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kevin",
+        "surname": "Pina",
+        "age": 29
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yannick",
+        "surname": "",
+        "age": 30
+      },
+      {
+        "position": "Forvet",
+        "name": "Hélio",
+        "surname": "Varela",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Gilson",
+        "surname": "Benchimol",
+        "age": 24
+      },
+      {
+        "position": "Forvet",
+        "name": "Dailon",
+        "surname": "Livramento",
+        "age": 25
+      }
+    ]
+  }
+]

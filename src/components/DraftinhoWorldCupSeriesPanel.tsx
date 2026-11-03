@@ -6,6 +6,9 @@ import {
   type AppSegmentTab,
 } from "@/components/AppSegmentTabs";
 import { OldestWorldCupPanel } from "@/components/OldestWorldCupPanel";
+import { WorldCupMostValuablePanel } from "@/components/WorldCupMostValuablePanel";
+import { WorldCupMostGoalsPanel } from "@/components/WorldCupMostGoalsPanel";
+import { WorldCupMostPlayedPanel } from "@/components/WorldCupMostPlayedPanel";
 import { WorldCupShortestPanel } from "@/components/WorldCupShortestPanel";
 import { WorldCupTallestPanel } from "@/components/WorldCupTallestPanel";
 import { WorldCupYoungestPanel } from "@/components/WorldCupYoungestPanel";
@@ -16,6 +19,9 @@ const WC_SUB_TABS: AppSegmentTab[] = [
   { id: "oldest-squad", label: "En yaşlı" },
   { id: "tallest-squad", label: "En uzun" },
   { id: "shortest-squad", label: "En kısa" },
+  { id: "most-played-squad", label: "En çok maç" },
+  { id: "most-goals-squad", label: "En çok gol" },
+  { id: "most-valuable-squad", label: "En değerli" },
 ];
 
 type WcSubTabId = (typeof WC_SUB_TABS)[number]["id"];
@@ -67,6 +73,27 @@ export function DraftinhoWorldCupSeriesPanel() {
         hidden={activeSub !== "shortest-squad"}
       >
         <WorldCupShortestPanel />
+      </AppSegmentTabPanel>
+      <AppSegmentTabPanel
+        id={`${panelPrefix}-most-played-squad`}
+        labelledBy={`${subTabListId}-most-played-squad`}
+        hidden={activeSub !== "most-played-squad"}
+      >
+        <WorldCupMostPlayedPanel />
+      </AppSegmentTabPanel>
+      <AppSegmentTabPanel
+        id={`${panelPrefix}-most-goals-squad`}
+        labelledBy={`${subTabListId}-most-goals-squad`}
+        hidden={activeSub !== "most-goals-squad"}
+      >
+        <WorldCupMostGoalsPanel />
+      </AppSegmentTabPanel>
+      <AppSegmentTabPanel
+        id={`${panelPrefix}-most-valuable-squad`}
+        labelledBy={`${subTabListId}-most-valuable-squad`}
+        hidden={activeSub !== "most-valuable-squad"}
+      >
+        <WorldCupMostValuablePanel />
       </AppSegmentTabPanel>
     </div>
   );

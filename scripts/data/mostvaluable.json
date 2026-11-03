@@ -1,0 +1,3410 @@
+[
+  {
+    "country": "ABD",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Chris",
+        "surname": "Brady",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Defans",
+        "name": "Chris",
+        "surname": "Richards",
+        "value_eur": 28000000
+      },
+      {
+        "position": "Defans",
+        "name": "Sergiño",
+        "surname": "Dest",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Malik",
+        "surname": "Tillman",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tyler",
+        "surname": "Adams",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yunus",
+        "surname": "Musah",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Cavan",
+        "surname": "Sullivan",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Zavier",
+        "surname": "Gozo",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Julian",
+        "surname": "Hall",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Cole",
+        "surname": "Campbell",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mathis",
+        "surname": "Albert",
+        "value_eur": 5000000
+      }
+    ]
+  },
+  {
+    "country": "Almanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Jonas",
+        "surname": "Urbig",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "Schlotterbeck",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Defans",
+        "name": "Nathaniel",
+        "surname": "Brown",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aleksandar",
+        "surname": "Pavlovic",
+        "value_eur": 90000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Florian",
+        "surname": "Wirtz",
+        "value_eur": 85000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jamal",
+        "surname": "Musiala",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Felix",
+        "surname": "Nmecha",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kai",
+        "surname": "Havertz",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Said",
+        "surname": "El Mala",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Nick",
+        "surname": "Woltemade",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "Schade",
+        "value_eur": 50000000
+      }
+    ]
+  },
+  {
+    "country": "Arjantin",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Santiago",
+        "surname": "Beltrán",
+        "value_eur": 11000000
+      },
+      {
+        "position": "Defans",
+        "name": "Lisandro",
+        "surname": "Martínez",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Defans",
+        "name": "Cristian",
+        "surname": "Romero",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Enzo",
+        "surname": "Fernández",
+        "value_eur": 120000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nico",
+        "surname": "Paz",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alexis",
+        "surname": "Mac Allister",
+        "value_eur": 70000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Valentín",
+        "surname": "Barco",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Julián",
+        "surname": "Alvarez",
+        "value_eur": 110000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Lautaro",
+        "surname": "Martínez",
+        "value_eur": 85000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Franco",
+        "surname": "Mastantuono",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Gianluca",
+        "surname": "Prestianni",
+        "value_eur": 40000000
+      }
+    ]
+  },
+  {
+    "country": "Avustralya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Beach",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Defans",
+        "name": "Alessandro",
+        "surname": "Circati",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Defans",
+        "name": "Lucas",
+        "surname": "Herrington",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Yazbek",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Riley",
+        "surname": "McGree",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aiden",
+        "surname": "O'Neill",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Paul",
+        "surname": "Okon-Engstler",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Nestory",
+        "surname": "Irankunda",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Marcus",
+        "surname": "Younis",
+        "value_eur": 850000
+      },
+      {
+        "position": "Forvet",
+        "name": "Eli",
+        "surname": "Adams",
+        "value_eur": 650000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yaya",
+        "surname": "Dukuly",
+        "value_eur": 600000
+      }
+    ]
+  },
+  {
+    "country": "Avusturya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Christian",
+        "surname": "Zawieschitzky",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Defans",
+        "name": "Konrad",
+        "surname": "Laimer",
+        "value_eur": 32000000
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Affengruber",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christoph",
+        "surname": "Baumgartner",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolas",
+        "surname": "Seiwald",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carney",
+        "surname": "Chukwuemeka",
+        "value_eur": 17000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luca",
+        "surname": "Weinhandl",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Marco",
+        "surname": "Grüll",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Sasa",
+        "surname": "Kalajdzic",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Christoph",
+        "surname": "Lang",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Junior",
+        "surname": "Adamu",
+        "value_eur": 2000000
+      }
+    ]
+  },
+  {
+    "country": "Belçika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Senne",
+        "surname": "Lammens",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Defans",
+        "name": "Maxim",
+        "surname": "De Cuyper",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Defans",
+        "name": "Joaquin",
+        "surname": "Seys",
+        "value_eur": 27000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Diego",
+        "surname": "Moreira",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Youri",
+        "surname": "Tielemans",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Charles",
+        "surname": "De Ketelaere",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Roméo",
+        "surname": "Lavia",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Matias",
+        "surname": "Fernandez-Pardo",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mika",
+        "surname": "Godts",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Malick",
+        "surname": "Fofana",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Loïs",
+        "surname": "Openda",
+        "value_eur": 25000000
+      }
+    ]
+  },
+  {
+    "country": "Bosna Hersek",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Martin",
+        "surname": "Zlomislic",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Defans",
+        "name": "Tarik",
+        "surname": "Muharemović",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Amar",
+        "surname": "Dedic",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ermin",
+        "surname": "Mahmic",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amar",
+        "surname": "Memić",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Benjamin",
+        "surname": "Tahirović",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Armin",
+        "surname": "Gigovic",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kerim",
+        "surname": "Alajbegovic",
+        "value_eur": 32000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ermedin",
+        "surname": "Demirovic",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Esmir",
+        "surname": "Bajraktarevic",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Haris",
+        "surname": "Tabakovic",
+        "value_eur": 3500000
+      }
+    ]
+  },
+  {
+    "country": "Brezilya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lucas",
+        "surname": "Perri",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Defans",
+        "name": "Wesley",
+        "surname": "",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bruno",
+        "surname": "Guimarães",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Andrey",
+        "surname": "Santos",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "João",
+        "surname": "Gomes",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Danilo",
+        "surname": "",
+        "value_eur": 32000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Vinicius",
+        "surname": "Junior",
+        "value_eur": 130000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Estêvão",
+        "surname": "",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Raphinha",
+        "surname": "",
+        "value_eur": 70000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "",
+        "value_eur": 60000000
+      }
+    ]
+  },
+  {
+    "country": "Cezayir",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Melvin",
+        "surname": "Mastil",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Defans",
+        "name": "Rayan",
+        "surname": "Aït-Nouri",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jaouen",
+        "surname": "Hadjam",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Maza",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Farès",
+        "surname": "Chaïbi",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adem",
+        "surname": "Zorgane",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adil",
+        "surname": "Aouchiche",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Amine",
+        "surname": "Gouiri",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Amoura",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Belloumi",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ilan",
+        "surname": "Kebbal",
+        "value_eur": 12000000
+      }
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Kiyani",
+        "surname": "Zeggen",
+        "value_eur": 300000
+      },
+      {
+        "position": "Defans",
+        "name": "Armando",
+        "surname": "Obispo",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Defans",
+        "name": "Shurandy",
+        "surname": "Sambo",
+        "value_eur": 1300000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tahith",
+        "surname": "Chong",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Juninho",
+        "surname": "Bacuna",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Livano",
+        "surname": "Comenencia",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tyrese",
+        "surname": "Noslin",
+        "value_eur": 750000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jearl",
+        "surname": "Margaritha",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jeremy",
+        "surname": "Antonisse",
+        "value_eur": 800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ar'jany",
+        "surname": "Martha",
+        "value_eur": 700000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kenji",
+        "surname": "Gorré",
+        "value_eur": 600000
+      }
+    ]
+  },
+  {
+    "country": "Çekya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lukas",
+        "surname": "Hornicek",
+        "value_eur": 27000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ladislav",
+        "surname": "Krejci",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Defans",
+        "name": "Martin",
+        "surname": "Vitík",
+        "value_eur": 13000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pavel",
+        "surname": "Sulc",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adam",
+        "surname": "Karabec",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Michal",
+        "surname": "Sadílek",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lukas",
+        "surname": "Ambros",
+        "value_eur": 6500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Adam",
+        "surname": "Hlozek",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ryan",
+        "surname": "Naderi",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ondrej",
+        "surname": "Lingr",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Vaclav",
+        "surname": "Sejk",
+        "value_eur": 1500000
+      }
+    ]
+  },
+  {
+    "country": "Ekvador",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Gonzalo",
+        "surname": "Valle",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Defans",
+        "name": "Willian",
+        "surname": "Pacho",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Defans",
+        "name": "Pervis",
+        "surname": "Estupiñán",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Denil",
+        "surname": "Castillo",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedro",
+        "surname": "Vite",
+        "value_eur": 6500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alan",
+        "surname": "Franco",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jordy",
+        "surname": "Alcívar",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Nilson",
+        "surname": "Angulo",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Keny",
+        "surname": "Arroyo",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "John",
+        "surname": "Mercado",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Alan",
+        "surname": "Minda",
+        "value_eur": 6000000
+      }
+    ]
+  },
+  {
+    "country": "Fas",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Achraf",
+        "surname": "Hakimi",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Defans",
+        "name": "Abdelhamid",
+        "surname": "Ait Boudlal",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Defans",
+        "name": "Noussair",
+        "surname": "Mazraoui",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ayyoub",
+        "surname": "Bouaddi",
+        "value_eur": 90000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismael",
+        "surname": "Saibari",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bilal",
+        "surname": "El Khannouss",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Neil",
+        "surname": "El Aynaoui",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Abde",
+        "surname": "Ezzalzouli",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Brahim",
+        "surname": "Díaz",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Gessime",
+        "surname": "Yassine",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yassir",
+        "surname": "Zabiri",
+        "value_eur": 20000000
+      }
+    ]
+  },
+  {
+    "country": "Fildişi Sahili",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yahia",
+        "surname": "Fofana",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ousmane",
+        "surname": "Diomande",
+        "value_eur": 42000000
+      },
+      {
+        "position": "Defans",
+        "name": "Evan",
+        "surname": "Ndicka",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christ",
+        "surname": "Inao Oulaï",
+        "value_eur": 28000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Malick",
+        "surname": "Yalcouyé",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Zabi",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Sangaré",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yan",
+        "surname": "Diomande",
+        "value_eur": 120000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Bazoumana",
+        "surname": "Touré",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ange-Yoan",
+        "surname": "Bonny",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Elye",
+        "surname": "Wahi",
+        "value_eur": 18000000
+      }
+    ]
+  },
+  {
+    "country": "Fransa",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mike",
+        "surname": "Maignan",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Defans",
+        "name": "Dayot",
+        "surname": "Upamecano",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jérémy",
+        "surname": "Jacquet",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rayan",
+        "surname": "Cherki",
+        "value_eur": 110000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Manu",
+        "surname": "Koné",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Eduardo",
+        "surname": "Camavinga",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Andy",
+        "surname": "Diouf",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kylian",
+        "surname": "Mbappé",
+        "value_eur": 200000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Michael",
+        "surname": "Olise",
+        "value_eur": 180000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Désiré",
+        "surname": "Doué",
+        "value_eur": 120000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Bradley",
+        "surname": "Barcola",
+        "value_eur": 100000000
+      }
+    ]
+  },
+  {
+    "country": "Gana",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lawrence",
+        "surname": "Ati Zigi",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Defans",
+        "name": "Kojo",
+        "surname": "Oppong",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jerome",
+        "surname": "Opoku",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Caleb",
+        "surname": "Yirenkyi",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Sulemana",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ronald",
+        "surname": "Donkor",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rahim",
+        "surname": "Ibrahim",
+        "value_eur": 1700000
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdul",
+        "surname": "Fatawu",
+        "value_eur": 23000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Brandon",
+        "surname": "Thomas-Asante",
+        "value_eur": 16000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Christopher",
+        "surname": "Bonsu Baah",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ernest",
+        "surname": "Nuamah",
+        "value_eur": 12000000
+      }
+    ]
+  },
+  {
+    "country": "Güney Afrika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sipho",
+        "surname": "Chaine",
+        "value_eur": 1600000
+      },
+      {
+        "position": "Defans",
+        "name": "Olwethu",
+        "surname": "Makhanya",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ime",
+        "surname": "Okon",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Teboho",
+        "surname": "Mokoena",
+        "value_eur": 2800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brooklyn",
+        "surname": "Poggenpoel",
+        "value_eur": 600000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Relebohile",
+        "surname": "Mofokeng",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Iqraam",
+        "surname": "Rayners",
+        "value_eur": 2800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Oswin",
+        "surname": "Appollis",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Tashreeq",
+        "surname": "Matthews",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Thapelo",
+        "surname": "Maseko",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Tshepang",
+        "surname": "Moremi",
+        "value_eur": 1400000
+      }
+    ]
+  },
+  {
+    "country": "Güney Kore",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Bum-keun",
+        "surname": "Song",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Defans",
+        "name": "Min-jae",
+        "surname": "Kim",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Defans",
+        "name": "Han-beom",
+        "surname": "Lee",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kang-in",
+        "surname": "Lee",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "In-beom",
+        "surname": "Hwang",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Seung-ho",
+        "surname": "Paik",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jae-sung",
+        "surname": "Lee",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Hyeon-gyu",
+        "surname": "Oh",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Heung-min",
+        "surname": "Son",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Min-su",
+        "surname": "Kim",
+        "value_eur": 9000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Hee-chan",
+        "surname": "Hwang",
+        "value_eur": 3000000
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alexandre",
+        "surname": "Pierre",
+        "value_eur": 500000
+      },
+      {
+        "position": "Defans",
+        "name": "Hannes",
+        "surname": "Delcroix",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jean-Kévin",
+        "surname": "Duverne",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jean-Ricner",
+        "surname": "Bellegarde",
+        "value_eur": 16000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Danley",
+        "surname": "Jean Jacques",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dominique",
+        "surname": "Simon",
+        "value_eur": 200000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carl",
+        "surname": "Sainté",
+        "value_eur": 125000
+      },
+      {
+        "position": "Forvet",
+        "name": "Wilson",
+        "surname": "Isidor",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kenny",
+        "surname": "Quetant",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Dany",
+        "surname": "Jean",
+        "value_eur": 1400000
+      },
+      {
+        "position": "Forvet",
+        "name": "Louicius",
+        "surname": "Deedson",
+        "value_eur": 1200000
+      }
+    ]
+  },
+  {
+    "country": "Hırvatistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ivor",
+        "surname": "Pandur",
+        "value_eur": 5500000
+      },
+      {
+        "position": "Defans",
+        "name": "Josko",
+        "surname": "Gvardiol",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Defans",
+        "name": "Luka",
+        "surname": "Vuskovic",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martin",
+        "surname": "Baturina",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Petar",
+        "surname": "Sučić",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luka",
+        "surname": "Sucic",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nikola",
+        "surname": "Vlašić",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Matanovic",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Franjo",
+        "surname": "Ivanović",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Dion",
+        "surname": "Beljo",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Petar",
+        "surname": "Musa",
+        "value_eur": 12000000
+      }
+    ]
+  },
+  {
+    "country": "Hollanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Bart",
+        "surname": "Verbruggen",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jurriën",
+        "surname": "Timber",
+        "value_eur": 70000000
+      },
+      {
+        "position": "Defans",
+        "name": "Micky",
+        "surname": "van de Ven",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Gravenberch",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tijjani",
+        "surname": "Reijnders",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kenneth",
+        "surname": "Taylor",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Quinten",
+        "surname": "Timber",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Crysencio",
+        "surname": "Summerville",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Joshua",
+        "surname": "Zirkzee",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Noa",
+        "surname": "Lang",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ruben",
+        "surname": "van Bommel",
+        "value_eur": 18000000
+      }
+    ]
+  },
+  {
+    "country": "Irak",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ahmed",
+        "surname": "Basil Fadhil",
+        "value_eur": 450000
+      },
+      {
+        "position": "Defans",
+        "name": "Merchas",
+        "surname": "Doski",
+        "value_eur": 1700000
+      },
+      {
+        "position": "Defans",
+        "name": "Akam",
+        "surname": "Hashem",
+        "value_eur": 700000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Zidane",
+        "surname": "Iqbal",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amir",
+        "surname": "Al-Ammari",
+        "value_eur": 800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jussef",
+        "surname": "Nasrawe",
+        "value_eur": 500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Zaid",
+        "surname": "Ismail",
+        "value_eur": 500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Qasem",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Bayesh",
+        "value_eur": 800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Hasan",
+        "surname": "Abdulkareem",
+        "value_eur": 750000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Jasim",
+        "value_eur": 500000
+      }
+    ]
+  },
+  {
+    "country": "İngiltere",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "James",
+        "surname": "Trafford",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Guéhi",
+        "value_eur": 75000000
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "O'Reilly",
+        "value_eur": 70000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jude",
+        "surname": "Bellingham",
+        "value_eur": 160000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elliot",
+        "surname": "Anderson",
+        "value_eur": 120000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Morgan",
+        "surname": "Rogers",
+        "value_eur": 120000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Morgan",
+        "surname": "Gibbs-White",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Bukayo",
+        "surname": "Saka",
+        "value_eur": 110000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Anthony",
+        "surname": "Gordon",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Harry",
+        "surname": "Kane",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Rio",
+        "surname": "Ngumoha",
+        "value_eur": 50000000
+      }
+    ]
+  },
+  {
+    "country": "İran",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Payam",
+        "surname": "Niazmand",
+        "value_eur": 700000
+      },
+      {
+        "position": "Defans",
+        "name": "Arya",
+        "surname": "Yousefi",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Defans",
+        "name": "Saman",
+        "surname": "Fallah",
+        "value_eur": 900000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saeed",
+        "surname": "Ezatolahi",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Ghorbani",
+        "value_eur": 1200000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aref",
+        "surname": "Hajieydi",
+        "value_eur": 800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Omid",
+        "surname": "Noorafkan",
+        "value_eur": 800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Sardar",
+        "surname": "Azmoun",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Dennis",
+        "surname": "Eckert Ayensa",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mehdi",
+        "surname": "Taremi",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mehdi",
+        "surname": "Limouchi",
+        "value_eur": 850000
+      }
+    ]
+  },
+  {
+    "country": "İskoçya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Angus",
+        "surname": "Gunn",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Defans",
+        "name": "Aaron",
+        "surname": "Hickey",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Defans",
+        "name": "Andrew",
+        "surname": "Robertson",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Billy",
+        "surname": "Gilmour",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lewis",
+        "surname": "Ferguson",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "John",
+        "surname": "McGinn",
+        "value_eur": 13000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lennon",
+        "surname": "Miller",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ben",
+        "surname": "Gannon-Doak",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kieron",
+        "surname": "Bowie",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Robbie",
+        "surname": "Ure",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Oli",
+        "surname": "McBurnie",
+        "value_eur": 7000000
+      }
+    ]
+  },
+  {
+    "country": "İspanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "David",
+        "surname": "Raya",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Defans",
+        "name": "Pau",
+        "surname": "Cubarsí",
+        "value_eur": 100000000
+      },
+      {
+        "position": "Defans",
+        "name": "Dean",
+        "surname": "Huijsen",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedri",
+        "surname": "",
+        "value_eur": 150000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fermín",
+        "surname": "López",
+        "value_eur": 110000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martín",
+        "surname": "Zubimendi",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dani",
+        "surname": "Olmo",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Lamine",
+        "surname": "Yamal",
+        "value_eur": 220000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Baena",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Carlos",
+        "surname": "Espí",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Víctor",
+        "surname": "Muñoz",
+        "value_eur": 40000000
+      }
+    ]
+  },
+  {
+    "country": "İsveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Viktor",
+        "surname": "Johansson",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Gudmundsson",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Svensson",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yasin",
+        "surname": "Ayari",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lucas",
+        "surname": "Bergvall",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hugo",
+        "surname": "Larsson",
+        "value_eur": 23000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Benjamin",
+        "surname": "Nygren",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Alexander",
+        "surname": "Isak",
+        "value_eur": 90000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Viktor",
+        "surname": "Gyökeres",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Williot",
+        "surname": "Swedberg",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Sebastian",
+        "surname": "Nanasi",
+        "value_eur": 15000000
+      }
+    ]
+  },
+  {
+    "country": "İsviçre",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Gregor",
+        "surname": "Kobel",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Manuel",
+        "surname": "Akanji",
+        "value_eur": 17000000
+      },
+      {
+        "position": "Defans",
+        "name": "Zachary",
+        "surname": "Athekame",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Johan",
+        "surname": "Manzambi",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ardon",
+        "surname": "Jashari",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fabian",
+        "surname": "Rieder",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alvyn",
+        "surname": "Sanches",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Dan",
+        "surname": "Ndoye",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Winsley",
+        "surname": "Boteli",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Zeki",
+        "surname": "Amdouni",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Joël",
+        "surname": "Monteiro",
+        "value_eur": 3500000
+      }
+    ]
+  },
+  {
+    "country": "Japonya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Zion",
+        "surname": "Suzuki",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Defans",
+        "name": "Hiroki",
+        "surname": "Ito",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ayumu",
+        "surname": "Seko",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kaishu",
+        "surname": "Sano",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kodai",
+        "surname": "Sano",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ao",
+        "surname": "Tanaka",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Daichi",
+        "surname": "Kamada",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yuito",
+        "surname": "Suzuki",
+        "value_eur": 28000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Takefusa",
+        "surname": "Kubo",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayase",
+        "surname": "Ueda",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ritsu",
+        "surname": "Doan",
+        "value_eur": 17000000
+      }
+    ]
+  },
+  {
+    "country": "Kanada",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Dayne",
+        "surname": "St. Clair",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Defans",
+        "name": "Alfie",
+        "surname": "Jones",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Defans",
+        "name": "Luc",
+        "surname": "De Fougerolles",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nathan",
+        "surname": "Saliba",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Stephen",
+        "surname": "Eustaquio",
+        "value_eur": 6000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Niko",
+        "surname": "Sigur",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jeevan",
+        "surname": "Badwal",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jonathan",
+        "surname": "David",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Promise",
+        "surname": "David",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Tajon",
+        "surname": "Buchanan",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Daniel",
+        "surname": "Jebbison",
+        "value_eur": 8000000
+      }
+    ]
+  },
+  {
+    "country": "Katar",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mahmoud",
+        "surname": "Abunada",
+        "value_eur": 600000
+      },
+      {
+        "position": "Defans",
+        "name": "Jassem",
+        "surname": "Gaber",
+        "value_eur": 500000
+      },
+      {
+        "position": "Defans",
+        "name": "Homam",
+        "surname": "Al-Amin",
+        "value_eur": 500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Assim",
+        "surname": "Madibo",
+        "value_eur": 350000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Naif",
+        "surname": "Al-Hadhrami",
+        "value_eur": 250000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ahmed",
+        "surname": "Fathi",
+        "value_eur": 250000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abdulaziz",
+        "surname": "Hatim",
+        "value_eur": 250000
+      },
+      {
+        "position": "Forvet",
+        "name": "Akram",
+        "surname": "Afif",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Almoez",
+        "surname": "Ali",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Edmílson",
+        "surname": "Junior",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Manai",
+        "value_eur": 500000
+      }
+    ]
+  },
+  {
+    "country": "Kolombiya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Kevin",
+        "surname": "Mier",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jhon",
+        "surname": "Lucumí",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Muñoz",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Richard",
+        "surname": "Ríos",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gustavo",
+        "surname": "Puerta",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jhon",
+        "surname": "Solís",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matías",
+        "surname": "Orozco",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Luis",
+        "surname": "Suárez",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "Viveros",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Andrés",
+        "surname": "Gómez",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jhon",
+        "surname": "Arias",
+        "value_eur": 15000000
+      }
+    ]
+  },
+  {
+    "country": "Kongo DC",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Matthieu",
+        "surname": "Epolo",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Defans",
+        "name": "Aaron",
+        "surname": "Wan-Bissaka",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Defans",
+        "name": "Jordy",
+        "surname": "Makengo",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Noah",
+        "surname": "Sadiki",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ngal'ayel",
+        "surname": "Mukau",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Edo",
+        "surname": "Kayembe",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Samuel",
+        "surname": "Moutoussamy",
+        "value_eur": 1200000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yoane",
+        "surname": "Wissa",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Simon",
+        "surname": "Banza",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Junior",
+        "surname": "Kadile",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Afimico",
+        "surname": "Pululu",
+        "value_eur": 4000000
+      }
+    ]
+  },
+  {
+    "country": "Meksika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Raúl",
+        "surname": "Rangel",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Defans",
+        "name": "Johan",
+        "surname": "Vásquez",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Defans",
+        "name": "Mateo",
+        "surname": "Chávez",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gilberto",
+        "surname": "Mora",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Érik",
+        "surname": "Lira",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Obed",
+        "surname": "Vargas",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jeremy",
+        "surname": "Márquez",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Santiago",
+        "surname": "Gimenez",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Armando",
+        "surname": "González",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Germán",
+        "surname": "Berterame",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Roberto",
+        "surname": "Alvarado",
+        "value_eur": 12000000
+      }
+    ]
+  },
+  {
+    "country": "Mısır",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Oufa",
+        "surname": "Shobeir",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Abdelmonem",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Defans",
+        "name": "Hossam",
+        "surname": "Abdelmaguid",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Emam",
+        "surname": "Ashour",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marwan",
+        "surname": "Ateya",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohanad",
+        "surname": "Lasheen",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mahmoud",
+        "surname": "Saber",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Omar",
+        "surname": "Marmoush",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Hamza",
+        "surname": "Abdelkarim",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Haissem",
+        "surname": "Hassan",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Zizo",
+        "surname": "",
+        "value_eur": 3500000
+      }
+    ]
+  },
+  {
+    "country": "Norveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Sander",
+        "surname": "Tangvik",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Defans",
+        "name": "Kristoffer",
+        "surname": "Ajer",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Defans",
+        "name": "Julian",
+        "surname": "Ryerson",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martin",
+        "surname": "Ødegaard",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sander",
+        "surname": "Berge",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fredrik",
+        "surname": "Aursnes",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Berg",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Erling",
+        "surname": "Haaland",
+        "value_eur": 220000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Antonio",
+        "surname": "Nusa",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Andreas",
+        "surname": "Schjelderup",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jørgen",
+        "surname": "Strand Larsen",
+        "value_eur": 40000000
+      }
+    ]
+  },
+  {
+    "country": "Özbekistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Abduvokhid",
+        "surname": "Nematov",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Defans",
+        "name": "Abdukodir",
+        "surname": "Khusanov",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Defans",
+        "name": "Bekhruz",
+        "surname": "Karimov",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aziz",
+        "surname": "Ganiev",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akmal",
+        "surname": "Mozgovoy",
+        "value_eur": 1400000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Umarali",
+        "surname": "Rakhmonaliev",
+        "value_eur": 1200000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Odildzhon",
+        "surname": "Khamrobekov",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Abbosbek",
+        "surname": "Fayzullaev",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Eldor",
+        "surname": "Shomurodov",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Dostonbek",
+        "surname": "Khamdamov",
+        "value_eur": 900000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ruslanbek",
+        "surname": "Jiyanov",
+        "value_eur": 800000
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Mosquera",
+        "value_eur": 700000
+      },
+      {
+        "position": "Defans",
+        "name": "Amir",
+        "surname": "Murillo",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Defans",
+        "name": "César",
+        "surname": "Blackman",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Adalberto",
+        "surname": "Carrasquilla",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Cristian",
+        "surname": "Martínez",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Giovany",
+        "surname": "Herbert",
+        "value_eur": 700000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carlos",
+        "surname": "Harvey",
+        "value_eur": 600000
+      },
+      {
+        "position": "Forvet",
+        "name": "Josué",
+        "surname": "Vergara",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "José",
+        "surname": "Luis Rodríguez",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Azarías",
+        "surname": "Londoño",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Tomás",
+        "surname": "Rodríguez",
+        "value_eur": 1000000
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Gill",
+        "value_eur": 7500000
+      },
+      {
+        "position": "Defans",
+        "name": "Omar",
+        "surname": "Alderete",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Defans",
+        "name": "Juan",
+        "surname": "José Cáceres",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Julio",
+        "surname": "Enciso",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Diego",
+        "surname": "Gómez",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mauricio",
+        "surname": "",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Andrés",
+        "surname": "Cubas",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ramón",
+        "surname": "Sosa",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Robert",
+        "surname": "Morales",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Miguel",
+        "surname": "Almirón",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Arce",
+        "value_eur": 3500000
+      }
+    ]
+  },
+  {
+    "country": "Portekiz",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Diogo",
+        "surname": "Costa",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Nuno",
+        "surname": "Mendes",
+        "value_eur": 80000000
+      },
+      {
+        "position": "Defans",
+        "name": "Rúben",
+        "surname": "Dias",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "João",
+        "surname": "Neves",
+        "value_eur": 140000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Vitinha",
+        "surname": "",
+        "value_eur": 140000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bruno",
+        "surname": "Fernandes",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rúben",
+        "surname": "Neves",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Pedro",
+        "surname": "Neto",
+        "value_eur": 60000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Ramos",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Francisco",
+        "surname": "Trincão",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Rafael",
+        "surname": "Leão",
+        "value_eur": 40000000
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yehvann",
+        "surname": "Diouf",
+        "value_eur": 7000000
+      },
+      {
+        "position": "Defans",
+        "name": "El",
+        "surname": "Hadji Malick Diouf",
+        "value_eur": 35000000
+      },
+      {
+        "position": "Defans",
+        "name": "Mamadou",
+        "surname": "Sarr",
+        "value_eur": 22000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lamine",
+        "surname": "Camara",
+        "value_eur": 55000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pape",
+        "surname": "Gueye",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pape",
+        "surname": "Matar Sarr",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bara",
+        "surname": "Sapoko Ndiaye",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Iliman",
+        "surname": "Ndiaye",
+        "value_eur": 65000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Mbaye",
+        "value_eur": 50000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Jackson",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismaïla",
+        "surname": "Sarr",
+        "value_eur": 45000000
+      }
+    ]
+  },
+  {
+    "country": "Suudi Arabistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Nawaf",
+        "surname": "Al-Aqidi",
+        "value_eur": 650000
+      },
+      {
+        "position": "Defans",
+        "name": "Mohammed",
+        "surname": "Abu Al-Shamat",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Defans",
+        "name": "Hassan",
+        "surname": "Tambakti",
+        "value_eur": 1800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nasser",
+        "surname": "Al-Dawsari",
+        "value_eur": 900000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ziyad",
+        "surname": "Al-Johani",
+        "value_eur": 800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Kanno",
+        "value_eur": 800000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abdullah",
+        "surname": "Al-Khaibari",
+        "value_eur": 750000
+      },
+      {
+        "position": "Forvet",
+        "name": "Feras",
+        "surname": "Al-Buraikan",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Saleh",
+        "surname": "Al-Shehri",
+        "value_eur": 500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdullah",
+        "surname": "Al-Hamdan",
+        "value_eur": 350000
+      },
+      {
+        "position": "Forvet",
+        "name": "Sultan",
+        "surname": "Mandash",
+        "value_eur": 350000
+      }
+    ]
+  },
+  {
+    "country": "Tunus",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Abdelmouhib",
+        "surname": "Chamakh",
+        "value_eur": 800000
+      },
+      {
+        "position": "Defans",
+        "name": "Montassar",
+        "surname": "Talbi",
+        "value_eur": 8000000
+      },
+      {
+        "position": "Defans",
+        "name": "Adem",
+        "surname": "Arous",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anis",
+        "surname": "Ben Slimane",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aïssa",
+        "surname": "Laïdouni",
+        "value_eur": 3500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hamza",
+        "surname": "Rafia",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Ali Ben Romdhane",
+        "value_eur": 900000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismaël",
+        "surname": "Gharbi",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Sebastian",
+        "surname": "Tounekti",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Elias",
+        "surname": "Achouri",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Khalil",
+        "surname": "Ayari",
+        "value_eur": 2000000
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Uğurcan",
+        "surname": "Çakır",
+        "value_eur": 13000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ferdi",
+        "surname": "Kadıoğlu",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ozan",
+        "surname": "Kabak",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Arda",
+        "surname": "Güler",
+        "value_eur": 100000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Can",
+        "surname": "Uzun",
+        "value_eur": 45000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "İsmail",
+        "surname": "Yüksek",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Demir",
+        "surname": "Ege Tıknaz",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Barış",
+        "surname": "Alper Yılmaz",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Yunus",
+        "surname": "Akgün",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Kerem",
+        "surname": "Aktürkoğlu",
+        "value_eur": 18000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Aral",
+        "surname": "Şimşir",
+        "value_eur": 15000000
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Thiago",
+        "surname": "Cardozo",
+        "value_eur": 3200000
+      },
+      {
+        "position": "Defans",
+        "name": "Maxi",
+        "surname": "Araújo",
+        "value_eur": 40000000
+      },
+      {
+        "position": "Defans",
+        "name": "Ronald",
+        "surname": "Araújo",
+        "value_eur": 25000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodrigo",
+        "surname": "Zalazar",
+        "value_eur": 30000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodrigo",
+        "surname": "Bentancur",
+        "value_eur": 17000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Giorgian",
+        "surname": "de Arrascaeta",
+        "value_eur": 14000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Facundo",
+        "surname": "Bernal",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Darwin",
+        "surname": "Núñez",
+        "value_eur": 20000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Brian",
+        "surname": "Rodríguez",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Martín",
+        "surname": "Satriano",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Federico",
+        "surname": "Viñas",
+        "value_eur": 8000000
+      }
+    ]
+  },
+  {
+    "country": "Ürdün",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yazeed",
+        "surname": "Abulaila",
+        "value_eur": 300000
+      },
+      {
+        "position": "Defans",
+        "name": "Yazan",
+        "surname": "Al-Arab",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Defans",
+        "name": "Mohannad",
+        "surname": "Abu Taha",
+        "value_eur": 550000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sisa",
+        "surname": "",
+        "value_eur": 650000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nizar",
+        "surname": "Al-Rashdan",
+        "value_eur": 600000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amer",
+        "surname": "Jamous",
+        "value_eur": 500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Saadeh",
+        "value_eur": 500000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mousa",
+        "surname": "Al-Tamari",
+        "value_eur": 10000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Olwan",
+        "value_eur": 800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohammad",
+        "surname": "Abu Zrayq",
+        "value_eur": 700000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Ersan",
+        "value_eur": 600000
+      }
+    ]
+  },
+  {
+    "country": "Yeni Zelanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alex",
+        "surname": "Paulsen",
+        "value_eur": 500000
+      },
+      {
+        "position": "Defans",
+        "name": "Tyler",
+        "surname": "Bindon",
+        "value_eur": 4500000
+      },
+      {
+        "position": "Defans",
+        "name": "Finn",
+        "surname": "Surman",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Callum",
+        "surname": "McCowatt",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Owen",
+        "surname": "Parker-Price",
+        "value_eur": 600000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alex",
+        "surname": "Rufer",
+        "value_eur": 600000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lachlan",
+        "surname": "Bayliss",
+        "value_eur": 550000
+      },
+      {
+        "position": "Forvet",
+        "name": "Chris",
+        "surname": "Wood",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jesse",
+        "surname": "Randall",
+        "value_eur": 800000
+      },
+      {
+        "position": "Forvet",
+        "name": "Corban",
+        "surname": "Piper",
+        "value_eur": 450000
+      },
+      {
+        "position": "Forvet",
+        "name": "Logan",
+        "surname": "Rogerson",
+        "value_eur": 400000
+      }
+    ]
+  },
+  {
+    "country": "Yeşil Burun",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "CJ",
+        "surname": "dos Santos",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Defans",
+        "name": "Logan",
+        "surname": "Costa",
+        "value_eur": 15000000
+      },
+      {
+        "position": "Defans",
+        "name": "Wagner",
+        "surname": "Pina",
+        "value_eur": 12000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kevin",
+        "surname": "Pina",
+        "value_eur": 5000000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Deroy",
+        "surname": "Duarte",
+        "value_eur": 2500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Laros",
+        "surname": "Duarte",
+        "value_eur": 1500000
+      },
+      {
+        "position": "Orta saha",
+        "name": "Djé",
+        "surname": "",
+        "value_eur": 1000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayoni",
+        "surname": "Santos",
+        "value_eur": 4000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Telmo",
+        "surname": "Arcanjo",
+        "value_eur": 3000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Gilson",
+        "surname": "Benchimol",
+        "value_eur": 2000000
+      },
+      {
+        "position": "Forvet",
+        "name": "Jovane",
+        "surname": "Cabral",
+        "value_eur": 1500000
+      }
+    ]
+  }
+]

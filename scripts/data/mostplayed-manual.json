@@ -1,0 +1,82 @@
+[
+  {
+    "country": "İngiltere",
+    "players": [
+      { "position": "Kaleci", "name": "Jordan", "surname": "Pickford", "caps": 7 },
+      { "position": "Defans", "name": "Marc", "surname": "Guéhi", "caps": 8 },
+      { "position": "Defans", "name": "Ezri", "surname": "Konsa", "caps": 8 },
+      { "position": "Orta saha", "name": "Elliot", "surname": "Anderson", "caps": 8 },
+      { "position": "Orta saha", "name": "Jude", "surname": "Bellingham", "caps": 8 },
+      { "position": "Orta saha", "name": "Declan", "surname": "Rice", "caps": 7 },
+      { "position": "Orta saha", "name": "Morgan", "surname": "Rogers", "caps": 7 },
+      { "position": "Forvet", "name": "Harry", "surname": "Kane", "caps": 7 },
+      { "position": "Forvet", "name": "Anthony", "surname": "Gordon", "caps": 6 },
+      { "position": "Forvet", "name": "Marcus", "surname": "Rashford", "caps": 6 },
+      { "position": "Forvet", "name": "Ivan", "surname": "Toney", "caps": 2 }
+    ]
+  },
+  {
+    "country": "Cezayir",
+    "players": [
+      { "position": "Kaleci", "name": "Luca", "surname": "Zidane", "caps": 3 },
+      { "position": "Defans", "name": "Rayan", "surname": "Aït-Nouri", "caps": 4 },
+      { "position": "Defans", "name": "Rafik", "surname": "Belghali", "caps": 4 },
+      { "position": "Orta saha", "name": "Nabil", "surname": "Bentaleb", "caps": 4 },
+      { "position": "Orta saha", "name": "Fares", "surname": "Chaïbi", "caps": 4 },
+      { "position": "Orta saha", "name": "Riyad", "surname": "Mahrez", "caps": 4 },
+      { "position": "Orta saha", "name": "Ibrahim", "surname": "Maza", "caps": 4 },
+      { "position": "Forvet", "name": "Amine", "surname": "Gouiri", "caps": 4 },
+      { "position": "Forvet", "name": "Adil", "surname": "Boulbina", "caps": 2 },
+      { "position": "Forvet", "name": "Mohamed", "surname": "Amoura", "caps": 1 },
+      { "position": "Forvet", "name": "Nadhir", "surname": "Benbouali", "caps": 1 }
+    ]
+  },
+  {
+    "country": "Arjantin",
+    "players": [
+      { "position": "Kaleci", "name": "Emiliano", "surname": "Martínez", "caps": 8 },
+      { "position": "Defans", "name": "Lisandro", "surname": "Martínez", "caps": 7 },
+      { "position": "Defans", "name": "Nahuel", "surname": "Molina", "caps": 7 },
+      { "position": "Orta saha", "name": "Alexis", "surname": "Mac Allister", "caps": 8 },
+      { "position": "Orta saha", "name": "Rodrigo", "surname": "De Paul", "caps": 7 },
+      { "position": "Orta saha", "name": "Enzo", "surname": "Fernández", "caps": 7 },
+      { "position": "Orta saha", "name": "Nicolás", "surname": "González", "caps": 7 },
+      { "position": "Forvet", "name": "Julián", "surname": "Álvarez", "caps": 8 },
+      { "position": "Forvet", "name": "Lionel", "surname": "Messi", "caps": 8 },
+      { "position": "Forvet", "name": "Lautaro", "surname": "Martínez", "caps": 7 },
+      { "position": "Forvet", "name": "Giuliano", "surname": "Simeone", "caps": 3 }
+    ]
+  },
+  {
+    "country": "Avustralya",
+    "players": [
+      { "position": "Kaleci", "name": "Patrick", "surname": "Beach", "caps": 4 },
+      { "position": "Defans", "name": "Alessandro", "surname": "Circati", "caps": 4 },
+      { "position": "Defans", "name": "Harry", "surname": "Souttar", "caps": 4 },
+      { "position": "Orta saha", "name": "Jackson", "surname": "Irvine", "caps": 4 },
+      { "position": "Orta saha", "name": "Connor", "surname": "Metcalfe", "caps": 4 },
+      { "position": "Orta saha", "name": "Aiden", "surname": "O'Neill", "caps": 4 },
+      { "position": "Orta saha", "name": "Paul", "surname": "Okon-Engstler", "caps": 4 },
+      { "position": "Forvet", "name": "Nestory", "surname": "Irankunda", "caps": 4 },
+      { "position": "Forvet", "name": "Mo", "surname": "Touré", "caps": 3 },
+      { "position": "Forvet", "name": "Tete", "surname": "Yengi", "caps": 2 },
+      { "position": "Forvet", "name": "Awer", "surname": "Mabil", "caps": 1 }
+    ]
+  },
+  {
+    "country": "Avusturya",
+    "players": [
+      { "position": "Kaleci", "name": "Alexander", "surname": "Schlager", "caps": 4 },
+      { "position": "Defans", "name": "David", "surname": "Alaba", "caps": 4 },
+      { "position": "Defans", "name": "Kevin", "surname": "Danso", "caps": 4 },
+      { "position": "Orta saha", "name": "Marcel", "surname": "Sabitzer", "caps": 4 },
+      { "position": "Orta saha", "name": "Xaver", "surname": "Schlager", "caps": 4 },
+      { "position": "Orta saha", "name": "Romano", "surname": "Schmid", "caps": 4 },
+      { "position": "Orta saha", "name": "Nicolas", "surname": "Seiwald", "caps": 4 },
+      { "position": "Forvet", "name": "Marko", "surname": "Arnautović", "caps": 4 },
+      { "position": "Forvet", "name": "Michael", "surname": "Gregoritsch", "caps": 3 },
+      { "position": "Forvet", "name": "Saša", "surname": "Kalajdžić", "caps": 3 },
+      { "position": "Forvet", "name": "Patrick", "surname": "Wimmer", "caps": 2 }
+    ]
+  }
+]

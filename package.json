@@ -12,6 +12,8 @@
     "db:init:oldest-worldcup": "node --env-file=.env scripts/init-oldestworldcup.mjs",
     "db:init:worldcup-tallest": "node --env-file=.env scripts/init-worldcuptallest.mjs",
     "db:init:worldcup-shortest": "node --env-file=.env scripts/init-worldcupshortest.mjs",
+    "db:init:most-played": "node --env-file=.env scripts/init-mostplayed.mjs",
+    "db:init:most-valuable": "node --env-file=.env scripts/init-mostvaluable.mjs",
     "db:init:tallestsquad": "node --env-file=.env scripts/init-tallestsquad.mjs",
     "db:init:tallest-current": "node --env-file=.env scripts/init-tallest-current.mjs",
     "db:seed:tallest-current": "node --env-file=.env scripts/seed-tallest-current.mjs",
@@ -20,6 +22,13 @@
     "db:seed:worldcup-oldest-pdf": "node --env-file=.env scripts/seed-worldcup-oldest-from-pdf.mjs",
     "db:seed:worldcup-tallest-pdf": "node --env-file=.env scripts/seed-worldcup-tallest-from-pdf.mjs",
     "db:seed:worldcup-shortest-pdf": "node --env-file=.env scripts/seed-worldcup-shortest-from-pdf.mjs",
+    "db:seed:most-played": "node --env-file=.env scripts/seed-mostplayed.mjs",
+    "db:seed:most-goals": "node --env-file=.env scripts/seed-mostgoals.mjs",
+    "db:seed:most-valuable-tm": "node --env-file=.env scripts/seed-mostvaluable-from-transfermarkt.mjs",
+    "db:import:most-played-sportsref": "node scripts/import-mostplayed-from-sportsref.mjs",
+    "db:refresh:worldcup-sportsref": "node scripts/import-mostplayed-from-sportsref.mjs && node --env-file=.env scripts/seed-mostplayed.mjs && node --env-file=.env scripts/seed-mostgoals.mjs && node --env-file=.env scripts/seed-worldcup-youngest-from-json.mjs && node --env-file=.env scripts/seed-worldcup-oldest-from-json.mjs",
+    "db:seed:worldcup-youngest-json": "node --env-file=.env scripts/seed-worldcup-youngest-from-json.mjs",
+    "db:seed:worldcup-oldest-json": "node --env-file=.env scripts/seed-worldcup-oldest-from-json.mjs",
     "pwa:icons": "node scripts/generate-pwa-icons.mjs"
   },
   "dependencies": {

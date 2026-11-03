@@ -3,16 +3,17 @@
 import { ClubLogo } from "@/components/ClubLogo";
 import { CountryFlag } from "@/components/CountryFlag";
 import { formatPlayerName, positionEmoji } from "@/lib/country-display";
-import type { TallestSquadPlayer, WorldCupSquadCountryEntry } from "@/lib/types";
+import { formatMarketValueEur } from "@/lib/format-market-value";
+import type { TallestSquadPlayer, WorldCupMostGoalsPlayer, WorldCupMostPlayedPlayer, WorldCupMostValuablePlayer, WorldCupSquadCountryEntry } from "@/lib/types";
 import { useEffect, useId } from "react";
 
 type SquadModalEntry = WorldCupSquadCountryEntry | {
   id: number;
   country: string;
-  players: TallestSquadPlayer[];
+  players: TallestSquadPlayer[] | WorldCupMostPlayedPlayer[] | WorldCupMostGoalsPlayer[] | WorldCupMostValuablePlayer[];
 };
 
-type PlayerStat = "age" | "height";
+type PlayerStat = "age" | "height" | "caps" | "goals" | "value_eur";
 
 type Props = {
   entry: SquadModalEntry | null;
@@ -133,9 +134,15 @@ export function WorldCupSquadCountryModal({
               <span className="shrink-0 rounded-lg border border-gold/25 bg-gold/[0.08] px-2.5 py-1 text-xs font-semibold tabular-nums text-gold">
                 {playerStat === "height" && "height_cm" in player
                   ? `${player.height_cm} cm`
-                  : "age" in player
-                    ? `${player.age} yaş`
-                    : "—"}
+                  : playerStat === "caps" && "caps" in player
+                    ? `${player.caps} maç`
+                    : playerStat === "goals" && "goals" in player
+                      ? `${player.goals} gol`
+                      : playerStat === "value_eur" && "value_eur" in player
+                        ? formatMarketValueEur(player.value_eur)
+                        : "age" in player
+                        ? `${player.age} yaş`
+                        : "—"}
               </span>
             </li>
           ))}

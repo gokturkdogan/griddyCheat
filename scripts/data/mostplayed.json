@@ -1,0 +1,3410 @@
+[
+  {
+    "country": "ABD",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Matt",
+        "surname": "Freese",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Alex",
+        "surname": "Freeman",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Tim",
+        "surname": "Ream",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sebastian",
+        "surname": "Berhalter",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sergiño",
+        "surname": "Dest",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Weston",
+        "surname": "McKennie",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gio",
+        "surname": "Reyna",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Ricardo",
+        "surname": "Pepi",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Folarin",
+        "surname": "Balogun",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Haji",
+        "surname": "Wright",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Alejandro",
+        "surname": "Zendejas",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Almanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Manuel",
+        "surname": "Neuer",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Joshua",
+        "surname": "Kimmich",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Antonio",
+        "surname": "Rüdiger",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jamal",
+        "surname": "Musiala",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Felix",
+        "surname": "Nmecha",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aleksandar",
+        "surname": "Pavlovic",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leroy",
+        "surname": "Sané",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Kai",
+        "surname": "Havertz",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Deniz",
+        "surname": "Undav",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Maximilian",
+        "surname": "Beier",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Jamie",
+        "surname": "Leweling",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Arjantin",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Emiliano",
+        "surname": "Martínez",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Lisandro",
+        "surname": "Martínez",
+        "caps": 7
+      },
+      {
+        "position": "Defans",
+        "name": "Nahuel",
+        "surname": "Molina",
+        "caps": 7
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alexis",
+        "surname": "Mac Allister",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodrigo",
+        "surname": "De Paul",
+        "caps": 7
+      },
+      {
+        "position": "Orta saha",
+        "name": "Enzo",
+        "surname": "Fernández",
+        "caps": 7
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolás",
+        "surname": "González",
+        "caps": 7
+      },
+      {
+        "position": "Forvet",
+        "name": "Julián",
+        "surname": "Álvarez",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Lionel",
+        "surname": "Messi",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Lautaro",
+        "surname": "Martínez",
+        "caps": 7
+      },
+      {
+        "position": "Forvet",
+        "name": "Giuliano",
+        "surname": "Simeone",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Avustralya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Patrick",
+        "surname": "Beach",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Jordy",
+        "surname": "Bos",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Alessandro",
+        "surname": "Circati",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nestory",
+        "surname": "Irankunda",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jackson",
+        "surname": "Irvine",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Connor",
+        "surname": "Metcalfe",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Aiden",
+        "surname": "O'Neill",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Mo",
+        "surname": "Touré",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Tete",
+        "surname": "Yengi",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Awer",
+        "surname": "Mabil",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Paul",
+        "surname": "Okon-Engstler",
+        "caps": 4
+      }
+    ]
+  },
+  {
+    "country": "Avusturya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alexander",
+        "surname": "Schlager",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "David",
+        "surname": "Alaba",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Kevin",
+        "surname": "Danso",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Konrad",
+        "surname": "Laimer",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marcel",
+        "surname": "Sabitzer",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Xaver",
+        "surname": "Schlager",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Romano",
+        "surname": "Schmid",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Marko",
+        "surname": "Arnautović",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Michael",
+        "surname": "Gregoritsch",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Saša",
+        "surname": "Kalajdžić",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Patrick",
+        "surname": "Wimmer",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Belçika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Thibaut",
+        "surname": "Courtois",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Timothy",
+        "surname": "Castagne",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Maxim",
+        "surname": "De Cuyper",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolas",
+        "surname": "Raskin",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leandro",
+        "surname": "Trossard",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hans",
+        "surname": "Vanaken",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kevin",
+        "surname": "De Bruyne",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Romelu",
+        "surname": "Lukaku",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Charles",
+        "surname": "De Ketelaere",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Matias",
+        "surname": "Fernandez-Pardo",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Jeremy",
+        "surname": "Doku",
+        "caps": 5
+      }
+    ]
+  },
+  {
+    "country": "Bosna Hersek",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Nikola",
+        "surname": "Vasilj",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Nikola",
+        "surname": "Katić",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Sead",
+        "surname": "Kolašinac",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kerim",
+        "surname": "Alajbegović",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Esmir",
+        "surname": "Bajraktarevic",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amar",
+        "surname": "Memić",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ivan",
+        "surname": "Šunjić",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Ermedin",
+        "surname": "Demirović",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Edin",
+        "surname": "Džeko",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Jovo",
+        "surname": "Lukić",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Samed",
+        "surname": "Baždar",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Brezilya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alisson",
+        "surname": "",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Danilo",
+        "surname": "",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Magalhães",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Casemiro",
+        "surname": "",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bruno",
+        "surname": "Guimarães",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gabriel",
+        "surname": "Martinelli",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lucas",
+        "surname": "Paquetá",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Matheus",
+        "surname": "Cunha",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Vinicius",
+        "surname": "Júnior",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Endrick",
+        "surname": "",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "",
+        "caps": 4
+      }
+    ]
+  },
+  {
+    "country": "Cezayir",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Luca",
+        "surname": "Zidane",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Rayan",
+        "surname": "Aït-Nouri",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Rafik",
+        "surname": "Belghali",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nabil",
+        "surname": "Bentaleb",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Fares",
+        "surname": "Chaïbi",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Riyad",
+        "surname": "Mahrez",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Maza",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Amine",
+        "surname": "Gouiri",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Adil",
+        "surname": "Boulbina",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohamed",
+        "surname": "Amoura",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Nadhir",
+        "surname": "Benbouali",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Eloy",
+        "surname": "Room",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Sherel",
+        "surname": "Floranus",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Deveron",
+        "surname": "Fonville",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Juninho",
+        "surname": "Bacuna",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Leandro",
+        "surname": "Bacuna",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tahith",
+        "surname": "Chong",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Livano",
+        "surname": "Comenencia",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Gervane",
+        "surname": "Kastaneer",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Jürgen",
+        "surname": "Locadia",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Jeremy",
+        "surname": "Antonisse",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Jearl",
+        "surname": "Margaritha",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Çekya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Matej",
+        "surname": "Kovar",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Vladimír",
+        "surname": "Coufal",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Robin",
+        "surname": "Hranáč",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Michal",
+        "surname": "Sadílek",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Alexandr",
+        "surname": "Sojka",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tomáš",
+        "surname": "Souček",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lukáš",
+        "surname": "Červ",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Adam",
+        "surname": "Hložek",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Lukáš",
+        "surname": "Provod",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Patrik",
+        "surname": "Schick",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Pavel",
+        "surname": "Šulc",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Ekvador",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Hernán",
+        "surname": "Galíndez",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Alan",
+        "surname": "Franco",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Piero",
+        "surname": "Hincapié",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nilson",
+        "surname": "Angulo",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Moisés",
+        "surname": "Caicedo",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ángelo",
+        "surname": "Preciado",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedro",
+        "surname": "Vite",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonzalo",
+        "surname": "Plata",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Kevin",
+        "surname": "Rodríguez",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Enner",
+        "surname": "Valencia",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Jordy",
+        "surname": "Caicedo",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Fas",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yassine",
+        "surname": "Bounou",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Achraf",
+        "surname": "Hakimi",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Noussair",
+        "surname": "Mazraoui",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Neil",
+        "surname": "El Aynaoui",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brahim",
+        "surname": "Díaz",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bilal",
+        "surname": "El Khannouss",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Azzedine",
+        "surname": "Ounahi",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Soufiane",
+        "surname": "Rahimi",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismael",
+        "surname": "Saibari",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayoub",
+        "surname": "El Kaabi",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Amine",
+        "surname": "Sbai",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Fildişi Sahili",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yahia",
+        "surname": "Fofana",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Guéla",
+        "surname": "Doué",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Odilon",
+        "surname": "Kossounou",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Christ",
+        "surname": "Inao Oulaï",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Franck",
+        "surname": "Kessié",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Sangaré",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amad",
+        "surname": "Diallo",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Pépé",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Ange-Yoan",
+        "surname": "Bonny",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Yan",
+        "surname": "Diomandé",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Elye",
+        "surname": "Wahi",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Fransa",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mike",
+        "surname": "Maignan",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Jules",
+        "surname": "Koundé",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Dayot",
+        "surname": "Upamecano",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bradley",
+        "surname": "Barcola",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ousmane",
+        "surname": "Dembélé",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Désiré",
+        "surname": "Doué",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Michael",
+        "surname": "Olise",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Kylian",
+        "surname": "Mbappé",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Jean-Philippe",
+        "surname": "Mateta",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Marcus",
+        "surname": "Thuram",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Rayan",
+        "surname": "Cherki",
+        "caps": 7
+      }
+    ]
+  },
+  {
+    "country": "Gana",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Benjamin",
+        "surname": "Asare",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Gideon",
+        "surname": "Mensah",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Marvin",
+        "surname": "Senaya",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abdul",
+        "surname": "Fatawu Issahaku",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Antoine",
+        "surname": "Semenyo",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kwasi",
+        "surname": "Sibo",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Caleb",
+        "surname": "Yirenkyi",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Jordan",
+        "surname": "Ayew",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Prince",
+        "surname": "Kwabena Adu",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Kamaldeen",
+        "surname": "Sulemana",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Brandon",
+        "surname": "Thomas-Asante",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Güney Afrika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ronwen",
+        "surname": "Williams",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Mbekezeli",
+        "surname": "Mbokazi",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Aubrey",
+        "surname": "Modiba",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Oswin",
+        "surname": "Appollis",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thalente",
+        "surname": "Mbatha",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jayden",
+        "surname": "Adams",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Thapelo",
+        "surname": "Maseko",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Evidence",
+        "surname": "Makgopa",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Iqraam",
+        "surname": "Rayners",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Lyle",
+        "surname": "Foster",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Themba",
+        "surname": "Zwane",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Güney Kore",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Kim",
+        "surname": "Seung-gyu",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Gi-hyuk",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Lee",
+        "surname": "Han-beom",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Hwang",
+        "surname": "In-beom",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Paik",
+        "surname": "Seung-ho",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Seol",
+        "surname": "Young-woo",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Cho",
+        "surname": "Gue-sung",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Hwang",
+        "surname": "Hee-chan",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Son",
+        "surname": "Heung-min",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Oh",
+        "surname": "Hyeon-gyu",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Lee",
+        "surname": "Kang-in",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Johny",
+        "surname": "Placide",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Ricardo",
+        "surname": "Adé",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Carlens",
+        "surname": "Arcus",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jean-Ricner",
+        "surname": "Bellegarde",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Josué",
+        "surname": "Casimir",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Louicius",
+        "surname": "Deedson",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martin",
+        "surname": "Expérience",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Wilson",
+        "surname": "Isidor",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Lenny",
+        "surname": "Joseph",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Frantzdy",
+        "surname": "Pierrot",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Derrick",
+        "surname": "Etienne",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Hırvatistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Dominik",
+        "surname": "Livaković",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Joško",
+        "surname": "Gvardiol",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Ivan",
+        "surname": "Perišić",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mateo",
+        "surname": "Kovačić",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luka",
+        "surname": "Modrić",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mario",
+        "surname": "Pašalić",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Josip",
+        "surname": "Stanišić",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Petar",
+        "surname": "Sučić",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Ante",
+        "surname": "Budimir",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Andrej",
+        "surname": "Kramarić",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Matanović",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Hollanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Bart",
+        "surname": "Verbruggen",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Denzel",
+        "surname": "Dumfries",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Jan",
+        "surname": "Paul van Hecke",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Gravenberch",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Frenkie",
+        "surname": "de Jong",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Teun",
+        "surname": "Koopmeiners",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Memphis",
+        "surname": "",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Brian",
+        "surname": "Brobbey",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Cody",
+        "surname": "Gakpo",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Crysencio",
+        "surname": "Summerville",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Donyell",
+        "surname": "Malen",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Irak",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ahmed",
+        "surname": "Basil",
+        "caps": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Merchas",
+        "surname": "Doski",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Akam",
+        "surname": "Hashim",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Amir",
+        "surname": "Al Ammari",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ibrahim",
+        "surname": "Bayesh",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Zidane",
+        "surname": "Iqbal",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ahmed",
+        "surname": "Qasem",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Al Hamadi",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayman",
+        "surname": "Hussein",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohanad",
+        "surname": "Ali",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Ali",
+        "surname": "Yousif",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "İngiltere",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Jordan",
+        "surname": "Pickford",
+        "caps": 7
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Guéhi",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Ezri",
+        "surname": "Konsa",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elliot",
+        "surname": "Anderson",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jude",
+        "surname": "Bellingham",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Declan",
+        "surname": "Rice",
+        "caps": 7
+      },
+      {
+        "position": "Orta saha",
+        "name": "Morgan",
+        "surname": "Rogers",
+        "caps": 7
+      },
+      {
+        "position": "Forvet",
+        "name": "Harry",
+        "surname": "Kane",
+        "caps": 7
+      },
+      {
+        "position": "Forvet",
+        "name": "Ivan",
+        "surname": "Toney",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Ollie",
+        "surname": "Watkins",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Bukayo",
+        "surname": "Saka",
+        "caps": 7
+      }
+    ]
+  },
+  {
+    "country": "İran",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Alireza",
+        "surname": "Beiranvand",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Shoja'",
+        "surname": "Khalilzadeh",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Milad",
+        "surname": "Mohammadi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saeid",
+        "surname": "Ezatolahi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Saman",
+        "surname": "Ghoddos",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohammad",
+        "surname": "Mohebi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ramin",
+        "surname": "Rezaeian",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Shahriar",
+        "surname": "Moghanlou",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Mehdi",
+        "surname": "Taremi",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Amirhossein",
+        "surname": "Hosseinzadeh",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Alireza",
+        "surname": "Jahanbakhsh",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "İskoçya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Angus",
+        "surname": "Gunn",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Jack",
+        "surname": "Hendry",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Nathan",
+        "surname": "Patterson",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Christie",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lewis",
+        "surname": "Ferguson",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ben",
+        "surname": "Gannon-Doak",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "John",
+        "surname": "McGinn",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Ché",
+        "surname": "Adams",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Lyndon",
+        "surname": "Dykes",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Lawrence",
+        "surname": "Shankland",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Ross",
+        "surname": "Stewart",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "İspanya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Unai",
+        "surname": "Simón",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Pau",
+        "surname": "Cubarsí",
+        "caps": 8
+      },
+      {
+        "position": "Defans",
+        "name": "Marc",
+        "surname": "Cucurella",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mikel",
+        "surname": "Merino",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dani",
+        "surname": "Olmo",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedri",
+        "surname": "",
+        "caps": 8
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodri",
+        "surname": "",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Mikel",
+        "surname": "Oyarzabal",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Ferran",
+        "surname": "Torres",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Lamine",
+        "surname": "Yamal",
+        "caps": 8
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Baena",
+        "caps": 7
+      }
+    ]
+  },
+  {
+    "country": "İsveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Kristoffer",
+        "surname": "Nordfeldt",
+        "caps": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Gabriel",
+        "surname": "Gudmundsson",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Gustaf",
+        "surname": "Lagerbielke",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yasin",
+        "surname": "Ayari",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lucas",
+        "surname": "Bergvall",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anthony",
+        "surname": "Elanga",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Victor",
+        "surname": "Lindelöf",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Viktor",
+        "surname": "Gyökeres",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Alexander",
+        "surname": "Isak",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Taha",
+        "surname": "Ali",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Gustaf",
+        "surname": "Nilsson",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "İsviçre",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Gregor",
+        "surname": "Kobel",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Manuel",
+        "surname": "Akanji",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Nico",
+        "surname": "Elvedi",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Remo",
+        "surname": "Freuler",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Dan",
+        "surname": "Ndoye",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ruben",
+        "surname": "Vargas",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Granit",
+        "surname": "Xhaka",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Breel",
+        "surname": "Embolo",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Fabian",
+        "surname": "Rieder",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Michel",
+        "surname": "Aebischer",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Zeki",
+        "surname": "Amdouni",
+        "caps": 4
+      }
+    ]
+  },
+  {
+    "country": "Japonya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Zion",
+        "surname": "Suzuki",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Hiroki",
+        "surname": "Ito",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Shogo",
+        "surname": "Taniguchi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ritsu",
+        "surname": "Doan",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Junya",
+        "surname": "Itō",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Daichi",
+        "surname": "Kamada",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Keito",
+        "surname": "Nakamura",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Ayase",
+        "surname": "Ueda",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Kōki",
+        "surname": "Ogawa",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Keisuke",
+        "surname": "Gotō",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Shuto",
+        "surname": "Machino",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Kanada",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Maxime",
+        "surname": "Crépeau",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Luc",
+        "surname": "De Fougerolles",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Alistair",
+        "surname": "Johnston",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Tajon",
+        "surname": "Buchanan",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Stephen",
+        "surname": "Eustáquio",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jacob",
+        "surname": "Shaffelburg",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Ahmed",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Jonathan",
+        "surname": "David",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Tani",
+        "surname": "Oluwaseyi",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Promise",
+        "surname": "David",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Cyle",
+        "surname": "Larin",
+        "caps": 4
+      }
+    ]
+  },
+  {
+    "country": "Katar",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mahmoud",
+        "surname": "Abunada",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Boualem",
+        "surname": "Khoukhi",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Issa",
+        "surname": "Laye",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akram",
+        "surname": "Afif",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ahmed",
+        "surname": "Fathy",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jassem",
+        "surname": "Gaber",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Edmilson",
+        "surname": "Junior",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Yusuf",
+        "surname": "Abdurisag",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Alaaeldin",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Almoez",
+        "surname": "Ali",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Ahmed",
+        "surname": "Al-Ganehi",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Kolombiya",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Camilo",
+        "surname": "Vargas",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Jhon",
+        "surname": "Lucumí",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Daniel",
+        "surname": "Muñoz",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jhon",
+        "surname": "Arias",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Luis",
+        "surname": "Díaz",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jefferson",
+        "surname": "Lerma",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Gustavo",
+        "surname": "Puerta",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "James",
+        "surname": "Rodríguez",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Luis",
+        "surname": "Suárez",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Juan",
+        "surname": "Quintero",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Jaminton",
+        "surname": "Campaz",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Kongo DC",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Lionel",
+        "surname": "Mpasi",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Joris",
+        "surname": "Kayembe",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Arthur",
+        "surname": "Masuaku",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Samuel",
+        "surname": "Moutoussamy",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ngal'Ayel",
+        "surname": "Mukau",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Noah",
+        "surname": "Sadiki",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Edo",
+        "surname": "Kayembe",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Yoane",
+        "surname": "Wissa",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Cédric",
+        "surname": "Bakambu",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Nathanaël",
+        "surname": "Mbuku",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Simon",
+        "surname": "Banza",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Meksika",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Raúl",
+        "surname": "Rangel",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Jesús",
+        "surname": "Gallardo",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Edson",
+        "surname": "Álvarez",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Roberto",
+        "surname": "Alvarado",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Julián",
+        "surname": "Quiñones",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Gutiérrez",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Erik",
+        "surname": "Lira",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Santiago",
+        "surname": "Giménez",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Raúl",
+        "surname": "Jiménez",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Guillermo",
+        "surname": "Martínez Ayala",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Orbelín",
+        "surname": "Pineda",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Mısır",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mostafa",
+        "surname": "Shobeir",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Hany",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Yasser",
+        "surname": "Ibrahim",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Emam",
+        "surname": "Ashour",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Marwan",
+        "surname": "Attia",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Omar",
+        "surname": "Marmoush",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Salah",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Mostafa",
+        "surname": "Ziko",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Hamza",
+        "surname": "Abdelkarim",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Hamdy",
+        "surname": "Fathy",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Trézéguet",
+        "surname": "",
+        "caps": 4
+      }
+    ]
+  },
+  {
+    "country": "Norveç",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Ørjan",
+        "surname": "Nyland",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Fredrik",
+        "surname": "Aursnes",
+        "caps": 6
+      },
+      {
+        "position": "Defans",
+        "name": "Kristoffer",
+        "surname": "Ajer",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Patrick",
+        "surname": "Berg",
+        "caps": 6
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sander",
+        "surname": "Berge",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Martin",
+        "surname": "Ødegaard",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kristian",
+        "surname": "Thorstvedt",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Oscar",
+        "surname": "Bobb",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Antonio",
+        "surname": "Nusa",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Andreas",
+        "surname": "Schjelderup",
+        "caps": 6
+      },
+      {
+        "position": "Forvet",
+        "name": "Erling",
+        "surname": "Haaland",
+        "caps": 5
+      }
+    ]
+  },
+  {
+    "country": "Özbekistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Abduvohid",
+        "surname": "Nematov",
+        "caps": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Rustam",
+        "surname": "Ashurmatov",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Abdukodir",
+        "surname": "Khusanov",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Abbosbek",
+        "surname": "Fayzullayev",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Akmal",
+        "surname": "Mozgovoy",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sherzod",
+        "surname": "Nasrullaev",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Otabek",
+        "surname": "Shukurov",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Igor",
+        "surname": "Sergeev",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Eldor",
+        "surname": "Shomurodov",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Azizbek",
+        "surname": "Amonov",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Jamshid",
+        "surname": "Iskanderov",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Mosquera",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Michael",
+        "surname": "Amir Murillo",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Andrés",
+        "surname": "Andrade Cedeño",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Yoel",
+        "surname": "Bárcenas",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Carlos",
+        "surname": "Harvey",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Azarías",
+        "surname": "Londoño",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "José",
+        "surname": "Luis Rodríguez",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "José",
+        "surname": "Fajardo",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Cristian",
+        "surname": "Martínez",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismael",
+        "surname": "Díaz",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Tomás",
+        "surname": "Rodríguez",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Orlando",
+        "surname": "Gill",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Júnior",
+        "surname": "Alonso",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Juan",
+        "surname": "Cáceres",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Andrés",
+        "surname": "Cubas",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Miguel",
+        "surname": "Almirón",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Damián",
+        "surname": "Bobadilla",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Matías",
+        "surname": "Galarza",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Julio",
+        "surname": "Enciso",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Gabriel",
+        "surname": "Ávalos",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Álex",
+        "surname": "Arce",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Gustavo",
+        "surname": "Caballero",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Portekiz",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Diogo",
+        "surname": "Costa",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "João",
+        "surname": "Cancelo",
+        "caps": 5
+      },
+      {
+        "position": "Defans",
+        "name": "Nuno",
+        "surname": "Mendes",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Bruno",
+        "surname": "Fernandes",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rafael",
+        "surname": "Leão",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pedro",
+        "surname": "Neto",
+        "caps": 5
+      },
+      {
+        "position": "Orta saha",
+        "name": "João",
+        "surname": "Neves",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Cristiano",
+        "surname": "Ronaldo",
+        "caps": 5
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Ramos",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Francisco",
+        "surname": "Trincão",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Gonçalo",
+        "surname": "Guedes",
+        "caps": 0
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mory",
+        "surname": "Diaw",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Pathé",
+        "surname": "Ciss",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Krépin",
+        "surname": "Diatta",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Lamine",
+        "surname": "Camara",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Idrissa",
+        "surname": "Gueye",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Pape",
+        "surname": "Gueye",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Sadio",
+        "surname": "Mané",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Nicolas",
+        "surname": "Jackson",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Ismaila",
+        "surname": "Sarr",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Iliman",
+        "surname": "Ndiaye",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Bamba",
+        "surname": "Dieng",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Suudi Arabistan",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Mohammed",
+        "surname": "Al-Owais",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Saud",
+        "surname": "Abdulhamid",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Moteb",
+        "surname": "Al-Harbi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nasser",
+        "surname": "Al-Dawsari",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Salem",
+        "surname": "Al-Dawsari",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Musab",
+        "surname": "Al Juwayr",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mohamed",
+        "surname": "Kanno",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Firas",
+        "surname": "Al-Buraikan",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdullah",
+        "surname": "Al-Hamdan",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Saleh",
+        "surname": "Al-Shehri",
+        "caps": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Abdullah",
+        "surname": "Al-Khaibari",
+        "caps": 3
+      }
+    ]
+  },
+  {
+    "country": "Tunus",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Aymen",
+        "surname": "Dahmen",
+        "caps": 2
+      },
+      {
+        "position": "Defans",
+        "name": "Ali",
+        "surname": "Abdi",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Mohamed",
+        "surname": "Amine Ben Hamida",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elias",
+        "surname": "Achouri",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Anis",
+        "surname": "Ben Slimane",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ismaël",
+        "surname": "Gharbi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rani",
+        "surname": "Khedira",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Firas",
+        "surname": "Chaouat",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Sebastian",
+        "surname": "Tounekti",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Elias",
+        "surname": "Saad",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Hazem",
+        "surname": "Mastouri",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Uğurcan",
+        "surname": "Çakır",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Abdülkerim",
+        "surname": "Bardakcı",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Mert",
+        "surname": "Müldür",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Barış",
+        "surname": "Alper Yılmaz",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Arda",
+        "surname": "Güler",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Orkun",
+        "surname": "Kökçü",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Kenan",
+        "surname": "Yıldız",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Kerem",
+        "surname": "Aktürkoğlu",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Deniz",
+        "surname": "Gül",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Yunus",
+        "surname": "Akgün",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Hakan",
+        "surname": "Çalhanoğlu",
+        "caps": 2
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Fernando",
+        "surname": "Muslera",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Sebastián",
+        "surname": "Cáceres",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Juan",
+        "surname": "Manuel Sanabria",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Maxi",
+        "surname": "Araújo",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Rodrigo",
+        "surname": "Bentancur",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Nicolás",
+        "surname": "De La Cruz",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Brian",
+        "surname": "Rodríguez",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Agustín",
+        "surname": "Canobbio",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Darwin",
+        "surname": "Núñez",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Federico",
+        "surname": "Viñas",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Rodrigo",
+        "surname": "Aguirre",
+        "caps": 1
+      }
+    ]
+  },
+  {
+    "country": "Ürdün",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Yazeed",
+        "surname": "Abulaila",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Mohannad",
+        "surname": "Abu Taha",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Yazan",
+        "surname": "Al-Arab",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Azaizeh",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Odeh",
+        "surname": "Al-Fakhouri",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Mahmoud",
+        "surname": "Al-Mardi",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ali",
+        "surname": "Olwan",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Musa",
+        "surname": "Al-Taamari",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Sharara",
+        "surname": "",
+        "caps": 2
+      },
+      {
+        "position": "Forvet",
+        "name": "Mohammad",
+        "surname": "Al-Dawud",
+        "caps": 1
+      },
+      {
+        "position": "Forvet",
+        "name": "Ibrahim",
+        "surname": "Sabra",
+        "caps": 0
+      }
+    ]
+  },
+  {
+    "country": "Yeni Zelanda",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Max",
+        "surname": "Crocombe",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Tyler",
+        "surname": "Bindon",
+        "caps": 3
+      },
+      {
+        "position": "Defans",
+        "name": "Michael",
+        "surname": "Boxall",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Joe",
+        "surname": "Bell",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Elijah",
+        "surname": "Just",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Callum",
+        "surname": "McCowatt",
+        "caps": 3
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ben",
+        "surname": "Old",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Chris",
+        "surname": "Wood",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Kosta",
+        "surname": "Barbarouses",
+        "caps": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Logan",
+        "surname": "Rogerson",
+        "caps": 0
+      },
+      {
+        "position": "Forvet",
+        "name": "Ben",
+        "surname": "Waine",
+        "caps": 0
+      }
+    ]
+  },
+  {
+    "country": "Yeşil Burun",
+    "players": [
+      {
+        "position": "Kaleci",
+        "name": "Vozinha",
+        "surname": "",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Diney",
+        "surname": "",
+        "caps": 4
+      },
+      {
+        "position": "Defans",
+        "name": "Steven",
+        "surname": "Moreira",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Deroy",
+        "surname": "Duarte",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Laros",
+        "surname": "Duarte",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Ryan",
+        "surname": "Mendes",
+        "caps": 4
+      },
+      {
+        "position": "Orta saha",
+        "name": "Jamiro",
+        "surname": "Monteiro",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Nuno",
+        "surname": "da Costa",
+        "caps": 4
+      },
+      {
+        "position": "Forvet",
+        "name": "Dailon",
+        "surname": "Livramento",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Willy",
+        "surname": "Semedo",
+        "caps": 3
+      },
+      {
+        "position": "Forvet",
+        "name": "Hélio",
+        "surname": "Varela",
+        "caps": 3
+      }
+    ]
+  }
+]
