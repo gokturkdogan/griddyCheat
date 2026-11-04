@@ -487,6 +487,64 @@ body {
   background: rgba(0, 0, 0, 0.25);
 }
 
+/* Mobil: yatay kaydırma, scrollbar gizli, kenar fade */
+.app-segment-scroll-shell {
+  position: relative;
+  max-width: 100%;
+}
+
+@media (max-width: 639px) {
+  .app-segment-scroll-shell .app-segment-track--simple {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    scroll-snap-type: x proximity;
+    scroll-padding-inline: 0.65rem;
+    mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      #000 0.65rem,
+      #000 calc(100% - 0.65rem),
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      #000 0.65rem,
+      #000 calc(100% - 0.65rem),
+      transparent 100%
+    );
+  }
+
+  .app-segment-scroll-shell .app-segment-track--simple::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
+  .app-segment-scroll-shell .app-segment-tab--simple {
+    flex: 0 0 auto;
+    width: auto;
+    min-width: max-content;
+    scroll-snap-align: center;
+    padding-inline: 0.85rem;
+  }
+
+  .app-segment-scroll-shell .app-segment-tab-label {
+    white-space: nowrap;
+  }
+}
+
+@media (min-width: 640px) {
+  .app-segment-scroll-shell .app-segment-tab--simple {
+    flex: 1;
+  }
+}
+
 @media (min-width: 640px) {
   .app-segment-track--primary {
     flex-direction: row;

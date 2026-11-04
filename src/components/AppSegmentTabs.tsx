@@ -1,6 +1,7 @@
 "use client";
 
 import type { ComponentType, ReactNode } from "react";
+import { useEffect, useRef } from "react";
 
 export type AppSegmentTab = {
   id: string;
@@ -33,20 +34,37 @@ export function AppSegmentTabs({
 }: Props) {
   const isPrimary = variant === "primary";
   const isSimple = appearance === "simple";
+  const trackRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!isSimple || !trackRef.current) return;
+    const active = trackRef.current.querySelector<HTMLElement>(
+      '[role="tab"][aria-selected="true"]',
+    );
+    active?.scrollIntoView({
+      inline: "center",
+      block: "nearest",
+      behavior: "smooth",
+    });
+  }, [activeId, isSimple]);
+
+  const trackClass = `app-segment-track ${
+    isSimple
+      ? "app-segment-track--simple"
+      : isPrimary
+        ? "app-segment-track--primary"
+        : "app-segment-track--secondary"
+  }`;
 
   return (
-    <div
-      className={`app-segment-track ${
-        isSimple
-          ? "app-segment-track--simple"
-          : isPrimary
-            ? "app-segment-track--primary"
-            : "app-segment-track--secondary"
-      }`}
-      role="tablist"
-      id={tabListId}
-      aria-label={ariaLabel}
-    >
+    <div className={isSimple ? "app-segment-scroll-shell" : undefined}>
+      <div
+        ref={trackRef}
+        className={trackClass}
+        role="tablist"
+        id={tabListId}
+        aria-label={ariaLabel}
+      >
       {tabs.map((tab) => {
         const isActive = tab.id === activeId;
         const Icon = tab.Icon;
@@ -79,7 +97,7 @@ export function AppSegmentTabs({
             <span
               className={`min-w-0 ${isSimple ? "text-center" : "app-segment-tab-text flex-1 text-left"}`}
             >
-              <span className="app-segment-tab-label block truncate">{tab.label}</span>
+              <span className="app-segment-tab-label block">{tab.label}</span>
               {!isSimple && tab.description ? (
                 <span className="app-segment-tab-desc block truncate">{tab.description}</span>
               ) : null}
@@ -87,6 +105,7 @@ export function AppSegmentTabs({
           </button>
         );
       })}
+      </div>
     </div>
   );
 }
